@@ -268,7 +268,7 @@ ul{
 }
 /*----*/
 .pricing{
-    padding:4% 0;
+    padding:4%;
 }
 .pricing-text h3{
     color:#393939;
@@ -330,6 +330,10 @@ ul{
 }
 .pricing-offer {
     border:1px solid #eee;
+}
+.pricing-offer img{
+    padding-bottom: 2em;
+    width: 25%;
 }
 .pricing-offer ul li{
     display:block;
@@ -604,7 +608,7 @@ p.ceo{
 }
 /*-----*/
 .contact{
-    padding:6% 0 8% 0;
+    padding:4% 0 8% 0;
 }
 .contact-text h3{
     color:#393939;
@@ -675,7 +679,7 @@ p.ceo{
 /*----*/
 .footer{
     background:#050e12;
-    padding:2em 0;
+    padding:1em 0;
     text-align:center;
 }
 .footer a img{
