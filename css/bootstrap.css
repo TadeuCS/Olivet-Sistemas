@@ -20,6 +20,7 @@ html {
 }
 body {
     margin: 0;
+    background-image: url('../img/bg.png');
 }
 article,
 aside,
@@ -50,6 +51,43 @@ audio:not([controls]) {
 [hidden],
 template {
     display: none;
+}
+.wrapper
+{
+    background-image: url('../img/bg.png');
+    box-shadow: inset 0px 1px 0px 0px rgba(0,0,0,0.05), inset 0px 2px 3px 0px rgba(0,0,0,0.1);
+}
+.wrapper.style4
+{
+    background-color: #303030;
+    color: #999;
+    text-shadow: -1px -1px 0px #181818;
+}
+.wrapper.style4 h1, 
+.wrapper.style4 h2, 
+.wrapper.style4 h3, 
+.wrapper.style4 h4, 
+.wrapper.style4 h5, 
+.wrapper.style4 h6
+{
+    color: #fff;
+}
+
+.wrapper.style4 form input[type=text],
+.wrapper.style4 form input[type=password],
+.wrapper.style4 form select,
+.wrapper.style4 form textarea
+{
+    border: none;
+    background: #282828;
+}
+
+.wrapper.style4 form input[type=text]:focus,
+.wrapper.style4 form input[type=password]:focus,
+.wrapper.style4 form select:focus,
+.wrapper.style4 form textarea:focus
+{
+    background: #252525;
 }
 a {
     background-color: transparent;
@@ -1616,8 +1654,12 @@ pre code {
 }
 .col-md-3 img{
     width: 10em;
+    height: 10em;
     padding: 8%;
     margin: 0 auto;
+}
+.col-md-3 p{
+    min-height: 10em;
 }
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
     float: left;
@@ -3091,6 +3133,7 @@ fieldset[disabled] .btn-default.active {
     background-color: #000000;
 }
 .btn-primary {
+    text-decoration: none;
     color: #ffffff;
     background-color: #337cbb;
     border-color: #2e6fa7;
@@ -4068,7 +4111,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     border-top-left-radius: 0;
 }
 .navbar {
-    position: relative;
+    position: fixed;
+    float: right;
+    width: 100%;
     min-height: 50px;
     margin-bottom: 0px;
     border: 1px solid transparent;
@@ -6637,8 +6682,8 @@ body {
     color: #ffffff;
 }
 #rodape img{ margin: 0 auto;
-    width: 5em;
-    margin: 0 auto;
+             width: 5em;
+             margin: 0 auto;
 }
 .section-primary .text-inverse {
     color: #000000;
@@ -6672,6 +6717,14 @@ body {
     overflow: hidden;
     position: relative;
     min-height: 100%;
+}
+.nav a{
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.btn a{
+    text-decoration: none;
 }
 .cover h1,
 .cover .h1 {
