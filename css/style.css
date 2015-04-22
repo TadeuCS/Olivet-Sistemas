@@ -608,6 +608,7 @@ ol.default li
     background-color: #303030;
     color: #999;
     text-shadow: -1px -1px 0px #181818;
+    text-align: center;
 }
 
 .wrapper.style4 h1, 
