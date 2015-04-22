@@ -6904,4 +6904,11 @@ body {
 .cover .cover-image.cover-image-fixed {
     background-attachment: fixed;
 }
-/* PINGENDO COMMENT DO NOT REMOVE */
+.col-md-6 img{
+    width: 32em;
+    height: 22em;
+}
+.col-md-6 p{
+    margin: 5% 9% 10% 9%;
+    text-align: justify;
+}
