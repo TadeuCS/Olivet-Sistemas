@@ -6790,7 +6790,7 @@ body {
     align-items: center;
     overflow: hidden;
     position: relative;
-    min-height: 100%;
+    min-height: 90%;//aqui
 }
 .nav a{
     text-decoration: none;
@@ -6900,6 +6900,7 @@ body {
     background-size: cover;
     background-position: center;
 }
+
 .cover .cover-image.background-image-fixed,
 .cover .cover-image.cover-image-fixed {
     background-attachment: fixed;
@@ -6911,4 +6912,27 @@ body {
 .col-md-6 p{
     margin: 5% 9% 10% 9%;
     text-align: justify;
+}
+#rodape{
+    width: 100%;
+    height: 10%;
+    background-color: #222222;
+}
+#rodape a{
+    text-decoration: none;
+    color: white;
+}
+#rodape a em{
+    font-size: 1.5em;
+}
+#rodape img{
+    width: 46px;
+    height: 46px;
+    margin-right: 2%;
+}
+#rodape a label{
+    margin: 1.5% 6% 1.5% 0;
+    font-family: Raleway, 'PT Sans Narrow', Arial, sans-serif;
+    font-size: 2em;
+    font-style: italic;
 }
