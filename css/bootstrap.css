@@ -3127,6 +3127,7 @@ select[multiple].form-group-lg .form-control {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    box-shadow: 4px 4px 2px #888888;
 }
 .btn:focus,
 .btn:active:focus,
@@ -6291,6 +6292,28 @@ button.close {
     opacity: 0.9;
     filter: alpha(opacity=90);
 }
+.carousel-control .glyphicon,
+.carousel-control .icon-prev,
+.carousel-control .icon-next {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 5;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-top: -10px;
+  margin-left: -10px;
+  font-family: serif;
+}
+
+.carousel-control .icon-prev:before {
+  content: '\2039';
+}
+
+.carousel-control .icon-next:before {
+  content: '\203a';
+}
 .carousel-control .icon-prev,
 .carousel-control .icon-next,
 .carousel-control .glyphicon-chevron-left,
@@ -6310,20 +6333,7 @@ button.close {
     right: 50%;
     margin-right: -10px;
 }
-.carousel-control .icon-prev,
-.carousel-control .icon-next {
-    width: 20px;
-    height: 20px;
-    margin-top: -10px;
-    line-height: 1;
-    font-family: serif;
-}
-.carousel-control .icon-prev:before {
-    content: '\2039';
-}
-.carousel-control .icon-next:before {
-    content: '\203a';
-}
+
 .carousel-indicators {
     position: absolute;
     bottom: 10px;
@@ -6733,7 +6743,8 @@ body {
     position: relative;
 }
 .section > .container > .row {
-    margin: 35px 0px;
+    margin: 1% 0px;
+/*    margin: 35px 0px;*/
 }
 .section .background-image {
     z-index: -1;
@@ -6912,6 +6923,9 @@ body {
 .col-md-6 p{
     margin: 5% 9% 10% 9%;
     text-align: justify;
+}
+.col-md-6 label{
+    text-shadow: 2px 2px 2px #888888;
 }
 #rodape{
     width: 100%;

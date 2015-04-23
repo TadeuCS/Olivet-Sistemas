@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
-    
+
     <head>
         <link rel="icon" href="img/icone.ico">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="js/bootstrap.js" type="text/javascript"></script>
         <script src="js/jquery.min.js" type="text/javascript"></script>
-        <script src="js/bootstrap.min.js" type="text/javascript"></script>
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href="css/style.css" rel="stylesheet" type="text/css">
     </head>
-    
+
     <body>
         <a href="img/icone.ico"></a>
         <div class="navbar navbar-default navbar-inverse navbar-static-top">
@@ -27,7 +27,10 @@
                 <div class="collapse navbar-collapse" id="navbar-ex-collapse">
                     <ul class="nav navbar-nav navbar-right">
                         <li>
-                            <a href="">Olivet Sistemas</a>
+                            <a href="">Home</a>
+                        </li>
+                        <li>
+                            <a href="#empresa">Olivet Sistemas</a>
                         </li>
                         <li>
                             <a href="#solucoes">Soluções</a>
@@ -43,7 +46,7 @@
             </div>
         </div>
         <div class="cover">
-            <div class="cover-image" style="background-image: url(img/reunião.jpg);"></div>
+            <div class="cover-image" style="background-image: url(img/reuniao.jpg);"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
@@ -55,17 +58,17 @@
                 </div>
             </div>
         </div>
-        <div id="rodape" class="text-center">
-            <img src="img/atendimento-fone.png" alt="">
-            <a href="+553438222250"><em>Suporte Tecnico</em> <label>(34) 3822-2250</label></a>
-            <img src="img/telefone.png" alt="">
-            <a href="+553499414604"><em>Comercial</em> <label>(34) 9941-4604</label></a>
-        </div>
         <div class="section">
-            <div class="container">
+            <div class="container text-center" id="rodape">
                 <div class="row">
-                    <div class="col-md-6"></div>
-                    <div class="col-md-6"></div>
+                    <div class="col-md-6">
+                        <img src="img/icones/contato-suporte.png" alt="">
+                        <a href="+553438222250"><em>Suporte Tecnico</em> <label>(34) 3822-2250</label></a>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="img/icones/contato-comercial.png" alt="">
+                        <a href="+553499414604"><em>Comercial</em> <label>(34) 9941-4604</label></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -87,32 +90,32 @@
                 <div class="row">
                     <div class="col-md-6">
                         <img src="img/slide1.jpg" class="center-block img-responsive">
-                        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
+                        <p class="lead text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
                             incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                             nostrud</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide2.jpg" class="center-block img-responsive">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
+                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
                             incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                             nostrud</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide3.jpg" class="center-block img-responsive">
-                        <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
+                        <p class="lead text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
                             incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                             nostrud</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide4.jpg" class="center-block img-responsive">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
+                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
                             incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                             nostrud</p>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="section">
+        <div class="section" id="empresa">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -121,8 +124,62 @@
                 </div>
             </div>
         </div>
+        <div >
+            <div class="section" >
+                <div class="container" >
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <h1 class="text-center text-primary">A empresa
+                                <br>
+                            </h1>
+                            <!--historia da empresa olivet sistemas-->
+                            <!--                        <div class="col-md-12 text-left">
+                                                        <h1 class="text-center">História</h1>
+                                                        <p class="">Fruto de um sonho e de uma oportunidade, a Olivet Sistemas é originária da Olivet Informática, uma empresa referência em Patos de Minas e região na área de treinamentos e cursos. O desligamento em relação à matriz, alguns anos após sua fundação, se deveu à diferença de foco e à necessidade de trilhar um caminho próprio.</p>
+                                                        <p>O início foi árduo e tudo começou com o desejo de se trabalhar com automação comercial. À vocação natural de seu fundador, Luis Antônio Silva, em atuar na área, juntou-se a oportunidade de uma inesperada parceria com uma empresa do setor. Iniciando suas atividades em 2004, com menos de dez clientes e com problemas devido à ineficácia do suporte e dos softwares utilizados, foi necessária uma mudança radical nos rumos da empresa.</p>
+                                                        <p>Em 2009, após firmar novas parcerias, eficientes e confiáves, a Olivet Sistemas deu um salto de qualidade em seus serviços. Estabilizada e contando com um ótimo ambiente de trabalho, onde recruta e treina competentes e compromissados profissionais da área. 
+                                                            Para o presente e o futuro, as aspirações da Olivet Sistemas são continuar o seu processo de evolução no sentido de suprir, sempre e em primeiro lugar, as necessidades de seus clientes na busca pelas melhores soluções e resultados.</p>
+                                                    </div>-->
+                        </div>
+
+                    </div>
+                    <div class="row text-center">
+                        <div class="col-md-4">
+                            <h1 class="text-center">Missão</h1>
+                            <p class="lead text-justify">Ser referência regional em gestão empresarial e automação comercial, auxiliando
+                                pequenas e médias empresas na busca pelos melhores resultados em seus ramos
+                                de atuação.</p>
+                        </div>
+                        <div class="col-md-4">
+                            <h1>Visão</h1>
+                            <p class="lead text-justify">Manter parcerias fortes, suporte e sistemas de gestão e automação lucrativos
+                                e eficientes para suprir as necessidades dos clientes.</p>
+                        </div>
+                        <div class="col-md-4">
+                            <h1>Valores</h1>
+                            <p class="lead text-justify">-Satisfação dos clientes&nbsp;
+                                <br>
+                                <br>-Transparência na relação com os clientes&nbsp;
+                                <br>
+                                <br>-Profissionalismo
+                                <br>
+                                <br>-Manutenção de fortes parcerias&nbsp;
+                                <br>
+                                <br>-Evolução e aprendizado constante
+                                <br>
+                                <br>-Crescimento sustentável</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div id="segmentos">
             <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <hr>
+                    </div>
+                </div>
                 <div class="col-md-12">
                     <h1 class="text-center text-primary">Segmentos</h1>
                     <p class="text-center">Nossos sistemas atendem todos estes segmentos</p>
@@ -182,7 +239,7 @@
                 </ul>
             </div>
         </div>
-        <div class="section">
+        <div class="section" id="solucoes">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -192,7 +249,7 @@
             </div>
         </div>
         <div class="section">
-            <div class="container" id="solucoes">
+            <div class="container" >
                 <div class="row">
                     <div class="col-md-12">
                         <div class="col-md-12">
@@ -207,7 +264,7 @@
                             <img src="img/solucoes/start.png" class="img-responsive">
                             <p class="text-justify">fasdfasd</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(3)"
-                            target="_blank">Saber Mais</a>
+                               target="_blank">Saber Mais</a>
                         </div>
                         <div class="col-md-3">
                             <h2 class="text-center">Resulth Business
@@ -218,7 +275,7 @@
                                 incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                                 nostrud</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(4)"
-                            target="_blank">Saber Mais</a>
+                               target="_blank">Saber Mais</a>
                         </div>
                         <div class="col-md-3 text-center">
                             <h2 class="text-center">Resulth ERP
@@ -228,8 +285,8 @@
                             <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
                                 incidunt ut labore et dolore magna aliqua. enim ad minim veniam, quis nostrud</p>
                             <a
-                            class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(5)"
-                            target="_blank">Saber Mais</a>
+                                class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(5)"
+                                target="_blank">Saber Mais</a>
                         </div>
                         <div class="col-md-3">
                             <h2 class="text-center">Resulth WEB
@@ -240,7 +297,7 @@
                                 incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                                 nostrud</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/resulth-web/"
-                            target="_blank">Saber Mais</a>
+                               target="_blank">Saber Mais</a>
                         </div>
                         <div class="col-md-3">
                             <h2 class="text-center">Resulth BI
@@ -251,7 +308,7 @@
                                 incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                                 nostrud</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/business-intelligence.php/"
-                            target="_blank">Saber Mais</a>
+                               target="_blank">Saber Mais</a>
                         </div>
                         <div class="col-md-3">
                             <h2 class="text-center">E-Commerce
@@ -262,7 +319,7 @@
                                 incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                                 nostrud</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/e-commerce.php/"
-                            target="_blank">Saber Mais</a>
+                               target="_blank">Saber Mais</a>
                         </div>
                         <div class="col-md-3">
                             <h2 class="text-center">Yunes
@@ -273,7 +330,7 @@
                                 incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                                 nostrud</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://yunessistemas.com.br/software/"
-                            target="_blank">Saber Mais</a>
+                               target="_blank">Saber Mais</a>
                         </div>
                         <div class="col-md-3">
                             <h2 class="text-center">TEF
@@ -284,7 +341,7 @@
                                 incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                                 nostrud</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/Produto"
-                            target="_blank">Saber Mais</a>
+                               target="_blank">Saber Mais</a>
                         </div>
                     </div>
                 </div>
@@ -300,17 +357,55 @@
             </div>
         </div>
         <div class="section">
-            <div class="col-md-12">
-                <h1 class="text-center text-primary">Depoimentos</h1>
-                <p class="text-center">Veja a opnião de quem usa os nossos sistemas</p>
+            <div class="container">
+                <hr>
+                <div class="row"></div>
             </div>
+        </div>
+        <div class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="http://www.youtube.com/embed/i__1Z5a9Sak"
-                            allowfullscreen=""></iframe>
-                        </div>
+                        <h1 class="text-center text-primary">Depoimentos</h1>
+                        <p class="text-center">Veja a opnião de quem usa os nossos sistemas</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
+                             class="img-circle img-responsive">
+                    </div>
+                    <div class="col-md-4">
+                        <h3 class="text-left">Giovani</h3>
+                        <p class="text-left">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p>
+                    </div>
+                    <div class="col-md-2">
+                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
+                             class="img-circle img-responsive">
+                    </div>
+                    <div class="col-md-4">
+                        <h3 class="text-left">André</h3>
+                        <p class="text-left">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-2">
+                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
+                             class="img-circle img-responsive">
+                    </div>
+                    <div class="col-md-4">
+                        <h3 class="text-left">Adriano
+                            <br>
+                        </h3>
+                        <p class="text-left">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p>
+                    </div>
+                    <div class="col-md-2">
+                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
+                             class="img-circle img-responsive">
+                    </div>
+                    <div class="col-md-4 text-center">
+                        <h3 class="text-left">Rodrigo</h3>
+                        <p class="text-left">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p>
                     </div>
                 </div>
             </div>
@@ -330,7 +425,7 @@
                     </div>
                     <div class="col-md-12">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.4814656781327!2d-46.51807600000001!3d-18.597402!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94aef535729f9fad%3A0xc65fefc517b45418!2sOlivet+Sistemas!5e0!3m2!1spt-BR!2sbr!4v1429554134568"
-                        width="800" height="600" frameborder="0" style="border:0"></iframe>
+                                width="800" height="600" frameborder="0" style="border:0"></iframe>
                     </div>
                 </div>
             </div>
@@ -355,13 +450,13 @@
                 <div class="row">
                     <div class="col-md-4">
                         <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                        class="center-block img-circle img-responsive">
+                             class="center-block img-circle img-responsive">
                         <h3 class="text-center">Roger Araújo</h3>
                         <p class="text-center">Suporte</p>
                     </div>
                     <div class="col-md-4">
                         <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                        class="center-block img-circle img-responsive">
+                             class="center-block img-circle img-responsive">
                         <h3 class="text-center">Vinicius Silva</h3>
                         <p class="text-center">Suporte
                             <br>
@@ -369,7 +464,7 @@
                     </div>
                     <div class="col-md-4">
                         <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                        class="center-block img-circle img-responsive">
+                             class="center-block img-circle img-responsive">
                         <h3 class="text-center">Tadeu Sousa</h3>
                         <p class="text-center">Suporte</p>
                     </div>
@@ -416,27 +511,53 @@
                             </ul>
                         </div>
                     </div>
-                </form>
-                <div class="iconesSociais">
-                    <hr>
-                    <h3>Encontre-nos nas redes sociais</h3>
-                    <ul class="social">
-                        <li>
-                            <a href="#"><img src="img/sociais/google.png" alt="Plus" title="Google Plus"></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="img/sociais/facebook.png" alt="Facebook" title="Facebook"></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="img/sociais/linkedin.png" alt="Linkedin" title="Linkedin"></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="img/sociais/skype.png" alt="Skype" title="Skype"></a>
-                        </li>
-                    </ul>
-                    <hr>
-                </div>
+                </form>       
+                <hr>
+                <br>
+<!--                <div class="section">
+                    <div class="container" >
+                        <div class="row text-center">
+                            <div class="col-md-12">
+                                <div class="col-md-12">
+                                    <h3 class="text-center text-primary">Nossos Contatos</h3>
+                                    <br>
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/icones/telefone.jpg" alt=""/>
+                                    <a>Fixo (34) 3822-2250</a>
+                                    <a>Luis (34) 9978-6207</a>
+                                    <a>Gabriel (34) 9941-4604</a>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <img src="img/icones/email.jpg" alt=""/>
+                                    <a>emmeline@olivetsistemas.com.br</a>
+                                    <a>luis@olivetsistemas.com.br</a>
+                                    <a>comercial@olivetsistemas.com.br</a>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <img src="img/icones/skype.png" alt=""/>
+                                    <a>suporte1.olivet</a>
+                                    <a>suporte2.olivet</a>
+                                    <a>suporte3.olivet</a>
+                                    <a>suporte4.olivet</a>
+                                    <a>suporte5.olivet</a>
+                                    <a>suporte6.olivet</a>
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/icones/whatsapp.png" alt=""/>
+                                    <a>Comercial (34) 9978-6207</a>
+                                    <img src="img/icones/facebook.png" alt=""/>
+                                    <a>Nossa Pagina</a>
+                                </div>
+                                <hr>
+                            </div>
+                        </div>
+                    </div>
+                </div>-->
                 <footer id="copyright">
+                    <hr>
                     <label>Desenvolvido por VTR Soluções</label>
                     <label>|</label>
                     <label>e-mail:
