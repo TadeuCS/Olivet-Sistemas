@@ -1,18 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Lato|Lato");
-/*!
- * Default theme for Pingendo 
- * Homepage: http://pingendo.com  
- * Copyright 2015 Pingendo 
- * Licensed under MIT 
- * Based on Bootstrap v3.3.4
-*/
-/* Add custom CSS classes here 
- * 
- * img {
- *   box-shadow : 0px 0px 10px black !important;
- * }
-*/
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
@@ -6295,24 +6282,24 @@ button.close {
 .carousel-control .glyphicon,
 .carousel-control .icon-prev,
 .carousel-control .icon-next {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  z-index: 5;
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  margin-top: -10px;
-  margin-left: -10px;
-  font-family: serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 5;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-top: -10px;
+    margin-left: -10px;
+    font-family: serif;
 }
 
 .carousel-control .icon-prev:before {
-  content: '\2039';
+    content: '\2039';
 }
 
 .carousel-control .icon-next:before {
-  content: '\203a';
+    content: '\203a';
 }
 .carousel-control .icon-prev,
 .carousel-control .icon-next,
@@ -6744,7 +6731,7 @@ body {
 }
 .section > .container > .row {
     margin: 1% 0px;
-/*    margin: 35px 0px;*/
+    /*    margin: 35px 0px;*/
 }
 .section .background-image {
     z-index: -1;

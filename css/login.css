@@ -1,0 +1,16 @@
+body{
+    /*background-color: #222222;*/
+    margin: 0;
+    padding: 0;
+    /*border: 1px solid #000;*/
+}
+#form{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-top:-50px;
+    margin-left:-50px;
+    border: solid 1px #000;
+}

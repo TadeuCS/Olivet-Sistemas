@@ -1,19 +1,33 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Sistema de Login</title>
+        <title>Olivet Sistemas - Login</title>
+        <link href="css/structure.css" rel="stylesheet" type="text/css"/>
+        <link href="css/reset.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <form name="loginForm" method="post" action="AreaDoCliente.php">
-            Email: <input type="text" name="email" value="" /><p/>
-            Senha: <input type="password" name="senha" value="" /></p>
-            <input type="submit" value="Entrar" name="btn_entrar" />
+        <form class="box login" name="loginForm" method="post" action="Util/conexao.php">
+            <fieldset class="boxBody">
+                <label>Username</label>
+                <input type="text" tabindex="1" name="email" placeholder="Email" required>
+                <label><a href="#" class="rLink" tabindex="5">Forget your password?</a>Password</label>
+                <input type="password" name="senha" placeholder="Senha" tabindex="2" required>
+            </fieldset>
+            <footer>
+                <label><input type="checkbox" tabindex="3">Keep me logged in</label>
+                <input type="submit" name="btn_entrar" class="btnLogin" value="Entrar" tabindex="4">
+            </footer>
         </form>
+        <footer id="main">
+            <footer id="copyright">
+                <hr>
+                <label>Desenvolvido por VTR Soluções</label>
+                <label>|</label>
+                <label>e-mail:
+                    <a>tcssitemas2012@gmail.com</a>
+                </label>
+            </footer>
+        </footer>
     </body>
 </html>
