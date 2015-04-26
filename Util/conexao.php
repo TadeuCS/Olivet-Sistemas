@@ -2,10 +2,10 @@
     <head>
         <script type="text/javascript">
             function loginSuccessfully() {
-                setTimeOut("window.location='AreaDoCliente.php'", 5000);
+                setTimeOut("window.location='AreaDoCliente.php'", 2000);
             }
             function loginFailed() {
-                setTimeOut("window.location='login.php'", 5000);
+                setTimeOut("window.location='login.php'", 2000);
             }
         </script>
     </head>

@@ -15,9 +15,9 @@
                 <input type="password" name="senha" placeholder="Senha" required>
             </fieldset>
             <footer>
-                
+                <a href="index.php"><button type="button" name="btn_voltar" class="btnLogin">Voltar</button></a>
+                <!--<input type="submit" name="btn_entrar" class="btnLogin" value="Entrar">-->
                 <input type="submit" name="btn_entrar" class="btnLogin" value="Entrar">
-                <input type="submit" name="btn_entrar" class="btnLogin" value="Voltar">
             </footer>
         </form>
         <footer id="main">
