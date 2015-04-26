@@ -9,14 +9,15 @@
     <body>
         <form class="box login" name="loginForm" method="post" action="Util/conexao.php">
             <fieldset class="boxBody">
-                <label>Username</label>
-                <input type="text" tabindex="1" name="email" placeholder="Email" required>
-                <label><a href="#" class="rLink" tabindex="5">Forget your password?</a>Password</label>
-                <input type="password" name="senha" placeholder="Senha" tabindex="2" required>
+                <label>Email</label>
+                <input type="text" name="email" placeholder="Email" required>
+                <label>CNPJ</label>
+                <input type="password" name="senha" placeholder="Senha" required>
             </fieldset>
             <footer>
-                <label><input type="checkbox" tabindex="3">Keep me logged in</label>
-                <input type="submit" name="btn_entrar" class="btnLogin" value="Entrar" tabindex="4">
+                
+                <input type="submit" name="btn_entrar" class="btnLogin" value="Entrar">
+                <input type="submit" name="btn_entrar" class="btnLogin" value="Voltar">
             </footer>
         </form>
         <footer id="main">
