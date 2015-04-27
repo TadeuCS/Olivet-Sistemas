@@ -137,52 +137,49 @@
             <div id="iconesSegmentos">
                 <ul class="social">
                     <li>
-                        <a href="#" title="Distribuidores"></a>
+                        <a href="#" title="Cerâmica"><img src="img/segmentos/ceramica.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Cerâmica"></a>
+                        <a href="#" title="Posto de Combustivel"><img src="img/segmentos/posto.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Posto de Combustivel"></a>
+                        <a href="#" title="Industria"><img src="img/segmentos/industria.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Industria"></a>
+                        <a href="#" title="Papelaria"><img src="img/segmentos/papelaria.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Papelaria"></a>
+                        <a href="#" title="Ótica"><img src="img/segmentos/otica.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Ótica"></a>
+                        <a href="#" title="Matériais de Construção"><img src="img/segmentos/construcao.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Matériais de Construção"></a>
+                        <a href="#" title="Lojas"><img src="img/segmentos/lojas.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Lojas"></a>
+                        <a href="#" title="Supermercado"><img src="img/segmentos/supermercado.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Supermercado"></a>
+                        <a href="#" title="Calçados"><img src="img/segmentos/calcados.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Calçados"></a>
+                        <a href="#" title="Restaurantes"><img src="img/segmentos/restaurantes.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Restaurantes"></a>
+                        <a href="#" title="Lanchonetes"><img src="img/segmentos/lanchonete.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Lanchonetes"></a>
+                        <a href="#" title="Bares"><img src="img/segmentos/bares.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Bares"></a>
+                        <a href="#" title="Boates"><img src="img/segmentos/boate.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Boates"></a>
+                        <a href="#" title="Sorveterias"><img src="img/segmentos/sorveteria.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Sorveterias"></a>
-                    </li>
-                    <li>
-                        <a href="#" title="Pizzarias"></a>
+                        <a href="#" title="Pizzarias"><img src="img/segmentos/pizzaria.png"/></a>
                     </li>
                 </ul>
             </div>
