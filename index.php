@@ -134,8 +134,11 @@
                     <br>
                 </div>
             </div>
-            <div id="iconesSegmentos">
+           <div id="iconesSegmentos">
                 <ul class="social">
+                    <li>
+                        <a href="#" title="Distribuidores"><img src="img/segmentos/distribuidora.png"/></a>
+                    </li>
                     <li>
                         <a href="#" title="Cerâmica"><img src="img/segmentos/ceramica.png"/></a>
                     </li>
@@ -164,7 +167,7 @@
                         <a href="#" title="Calçados"><img src="img/segmentos/calcados.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Restaurantes"><img src="img/segmentos/restaurantes.png"/></a>
+                        <a href="#" title="Restaurantes"><img src="img/segmentos/restaurante.png"/></a>
                     </li>
                     <li>
                         <a href="#" title="Lanchonetes"><img src="img/segmentos/lanchonete.png"/></a>
