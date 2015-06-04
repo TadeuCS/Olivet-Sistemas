@@ -95,7 +95,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <img src="img/slide1.jpg" class="center-block img-responsive">
-                        <p class="lead text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
+                        <p class="lead text-justify">Lorem uba ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
                             incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
                             nostrud</p>
                     </div>
