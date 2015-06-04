@@ -26,6 +26,7 @@ $headers .= "From: $nome <$email>";
   $mgm = "ERRO AO ENVIAR E-MAIL!";
   echo "";
   } */
+
 if (mail($destino, $assunto, $arquivo, $headers)) {
     $msg = "Sua mensagem foi enviada com sucesso.";
 } else {

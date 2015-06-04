@@ -421,22 +421,23 @@
                     <div>
                         <div class="row">
                             <div class="12u">
-                                <input type="text" name="nome" id="name" placeholder="Nome">
+                                <input type="text" name="nome" id="name" placeholder="Digite seu nome" required="required">
                             </div>
                         </div>
                         <div class="row">
                             <div class="12u">
-                                <input type="text" name="email" id="email" placeholder="Email">
+                                <input type="text" name="email" id="email" placeholder="Digite seu e-mail" required="required">
                             </div>
                         </div>
                         <div class="row">
                             <div class="12u">
-                                <input type="text" name="assunto" id="subject" placeholder="Assunto">
+                                <input type="text" name="assunto" id="subject" placeholder="Digite um assunto" required="required">
                             </div>
                         </div>
                         <div class="row">
                             <div class="12u">
-                                <textarea name="mensagem" id="message" placeholder="Messagem"></textarea>
+                                <textarea name="mensagem" id="message" 
+                                          required="required" placeholder="Digite a mensagem" ></textarea>
                             </div>
                         </div>
                         <div class="row 200%">
