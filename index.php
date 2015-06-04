@@ -137,52 +137,52 @@
            <div id="iconesSegmentos">
                 <ul class="social">
                     <li>
-                        <a href="#" title="Distribuidores"><img src="img/segmentos/distribuidora.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-atacadista/" target="_blank" title="Distribuidores"><img src="img/segmentos/distribuidora.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Cerâmica"><img src="img/segmentos/ceramica.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-ceramicas/" target="_blank" title="Cerâmica"><img src="img/segmentos/ceramica.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Posto de Combustivel"><img src="img/segmentos/posto.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-postos-de-gasolina/" target="_blank" title="Posto de Combustivel"><img src="img/segmentos/posto.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Industria"><img src="img/segmentos/industria.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-industrias/" target="_blank" title="Industria"><img src="img/segmentos/industria.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Papelaria"><img src="img/segmentos/papelaria.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-papelarias/" target="_blank" title="Papelaria"><img src="img/segmentos/papelaria.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Ótica"><img src="img/segmentos/otica.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-oticas/" target="_blank" title="Ótica"><img src="img/segmentos/otica.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Matériais de Construção"><img src="img/segmentos/construcao.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-construcao/" target="_blank" title="Matériais de Construção"><img src="img/segmentos/construcao.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Lojas"><img src="img/segmentos/lojas.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-lojas/" target="_blank" title="Lojas"><img src="img/segmentos/lojas.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Supermercado"><img src="img/segmentos/supermercado.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-supermercados/" target="_blank" title="Supermercado"><img src="img/segmentos/supermercado.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Calçados"><img src="img/segmentos/calcados.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-vestuario/" target="_blank" title="Calçados"><img src="img/segmentos/calcados.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Restaurantes"><img src="img/segmentos/restaurante.png"/></a>
+                        <a href="" title="Restaurantes"><img src="img/segmentos/restaurante.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Lanchonetes"><img src="img/segmentos/lanchonete.png"/></a>
+                        <a href="" title="Lanchonetes"><img src="img/segmentos/lanchonete.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Bares"><img src="img/segmentos/bares.png"/></a>
+                        <a href="" title="Bares"><img src="img/segmentos/bares.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Boates"><img src="img/segmentos/boate.png"/></a>
+                        <a href="" title="Boates"><img src="img/segmentos/boate.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Sorveterias"><img src="img/segmentos/sorveteria.png"/></a>
+                        <a href="" title="Sorveterias"><img src="img/segmentos/sorveteria.png"/></a>
                     </li>
                     <li>
-                        <a href="#" title="Pizzarias"><img src="img/segmentos/pizzaria.png"/></a>
+                        <a href="" title="Pizzarias"><img src="img/segmentos/pizzaria.png"/></a>
                     </li>
                 </ul>
             </div>
