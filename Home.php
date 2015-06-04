@@ -41,16 +41,17 @@
             </div>
         </div>
         <div id="contato" class="wrapper style4">
-            <article class="container">
+            <article id="contact" class="container">
+                <hr>
                 <header>
-                    <h2>Entre em contato</h2>
+                    <h2>Entre em contato conosco</h2>
                     <br>
                 </header>
-                <form method="post" action="#">
+                <form method="post" action="enviar.php">
                     <div>
                         <div class="row">
                             <div class="12u">
-                                <input type="text" name="name" id="name" placeholder="Nome">
+                                <input type="text" name="nome" id="name" placeholder="Nome">
                             </div>
                         </div>
                         <div class="row">
@@ -60,12 +61,12 @@
                         </div>
                         <div class="row">
                             <div class="12u">
-                                <input type="text" name="subject" id="subject" placeholder="Assunto">
+                                <input type="text" name="assunto" id="subject" placeholder="Assunto">
                             </div>
                         </div>
                         <div class="row">
                             <div class="12u">
-                                <textarea name="message" id="message" placeholder="Messagem"></textarea>
+                                <textarea name="mensagem" id="message" placeholder="Messagem"></textarea>
                             </div>
                         </div>
                         <div class="row 200%">
@@ -80,6 +81,7 @@
                         </div>
                     </div>
                 </form>       
+                <br>
                 <footer id="copyright">
                     <hr>
                     <label>Desenvolvido por VTR Soluções</label>

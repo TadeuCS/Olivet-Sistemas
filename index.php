@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -43,9 +43,9 @@
                         <li>
                             <a href="#contato">Contato</a>
                         </li>
-                        <li>
+<!--                        <li>
                             <a href="login.php">Area do Cliente</a>
-                        </li>
+                        </li>-->
                     </ul>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                         <h1 class="text-inverse">Seu negócio</h1>
                         <h3 class="text-inverse">com quem entende de negócio</h3>
                         <p class="text-center"></p>
-                        <a class="btn btn-lg btn-primary">Quero conhecer</a>
+                        <a class="btn btn-lg btn-primary" href="#solucoes" >Quero conhecer</a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@
                     <br>
                 </div>
             </div>
-           <div id="iconesSegmentos">
+            <div id="iconesSegmentos">
                 <ul class="social">
                     <li>
                         <a href="http://atsinformatica.com.br/resulth-atacadista/" target="_blank" title="Distribuidores"><img src="img/segmentos/distribuidora.png"/></a>
@@ -187,7 +187,7 @@
                 </ul>
             </div>
         </div>
-        <div class="section" id="solucoes">
+        <div id="solucoes"  class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -210,7 +210,12 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/start.png" class="img-responsive">
-                            <p class="text-justify">fasdfasd</p>
+                            <p class="text-justify">
+                                O modulo ResulthStart vem para atender de forma direta e 
+                                simplificada as necessidades em geral da sua empresa, 
+                                se adequando as necessidades e lhe disponibilizando 
+                                plena administração das operações da sua empresa.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(3)"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -219,9 +224,11 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/business.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">
+                                O modulo ResulthBusiness atende de forma agregada todas as necessidades do seu negocio,
+                                abrangendo diversas etapas externar para facilitar ainda mais 
+                                o gerenciamento de cada processo das atividades de sua empresa.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(4)"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -230,8 +237,11 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/erp.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. enim ad minim veniam, quis nostrud</p>
+                            <p class="text-justify">
+                                O modulo ResulthERP é a solução mais completa para atender a sua empresa,
+                                visando agilizar cada etapa dos processos de gestão do seu negocio, 
+                                integrando todas as funcionalidades do sistema com a rotina da sua organização.
+                            </p>
                             <a
                                 class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(5)"
                                 target="_blank">Saber Mais</a>
@@ -241,9 +251,11 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/web.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">
+                                O modulo ResulthERP é a solução mais completa para atender a sua empresa,
+                                visando agilizar cada etapa dos processos de gestão do seu negocio,
+                                integrando todas as funcionalidades do sistema com a rotina da sua organização.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/resulth-web/"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -252,9 +264,11 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/bi.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">
+                                O modulo ResulthBI é uma ferramenta de geração de relatórios 100% online,
+                                mesclando a gestão e o controle de cada etapa das atividades de sua empresa,
+                                gerando relatórios íntegros e precisos para você adequar o seu negocio a sua maneira e a sua gestão.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/business-intelligence.php/"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -263,9 +277,12 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/e-commerce.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">
+                                O modulo E-commerce funciona como uma vitrine online,
+                                disponibilizando os seus produtos para todos os usuários da internet,
+                                assim abrangendo um nicho de clientes antes não explorados.
+                                Mais disponibilidade de acesso, maior contato com os clientes, mais vendas.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/e-commerce.php/"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -274,9 +291,9 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/yunes.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">O Yunes é um sistema voltado para bares, restaurantes, lanchonetes e afins,
+                                disponibilizando o gerenciamento de toda a etapa do funcionamento da sua
+                                empresa desde o controle das mesas até o saldo geral de contas, além do gerenciamento do seu estoque.</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://yunessistemas.com.br/software/"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -285,9 +302,9 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/tef.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">O TEF é uma maquina que trás as soluções nas suas vendas em cartão,
+                                não é necessário ficar preso ao comprovante da venda em cartão,
+                                as transações são feitas online e podem ser acessadas de qualquer lugar pelo seu gestor.</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/Produto"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -413,6 +430,7 @@
         <div id="contato" class="wrapper style4">
             <hr>
             <article id="contact" class="container">
+                <hr>
                 <header>
                     <h2>Entre em contato conosco</h2>
                     <br>
@@ -451,7 +469,6 @@
                         </div>
                     </div>
                 </form>       
-                <hr>
                 <br>
                 <footer id="copyright">
                     <hr>
