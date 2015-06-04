@@ -46,7 +46,7 @@
                     <h2>Entre em contato</h2>
                     <br>
                 </header>
-                <form method="post" action="enviar.php">
+                <form method="post" action="enviar_home.php">
                     <div>
                         <div class="row">
                             <div class="12u">
