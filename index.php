@@ -95,27 +95,33 @@
                 <div class="row">
                     <div class="col-md-6">
                         <img src="img/slide1.jpg" class="center-block img-responsive">
-                        <p class="lead text-justify">Lorem uba ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                            incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud</p>
+                        <p class="lead text-justify">A Olivet Sistemas possui as melhores soluções para a gestão do seu 
+                            negocio, com direcionamento para cada etapa do desenvolvimento da empresa, cada processo é
+                            acompanhado pelas ferramentas que lhe auxiliam no desenvolver das
+                            atividades.</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide2.jpg" class="center-block img-responsive">
-                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                            incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud</p>
+                        <p class="lead">Com maior gerenciamento de cada etapa e processo, vários dos trabalhos manuais são
+                            substituídos por apenas cliques, o que vai agilizar todo o funcionamento do seu negocio, assim
+                            resultando em mais tempo para aproveitar a vida e os momentos que realmente são 
+                            importantes.</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide3.jpg" class="center-block img-responsive">
-                        <p class="lead text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                            incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud</p>
+                        <p class="lead text-justify">Com todo o gerenciamento que o sistema realiza no seu negócio,
+                            cada etapa pode ser verificada de perto, através dos inúmeros relatórios que o sistema
+                            apresenta, assim mostrando com transparência e agilidade a vida da sua empresa,
+                            onde investir ou qual novo nicho de mercado se deve
+                            explorar.</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide4.jpg" class="center-block img-responsive">
-                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                            incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud</p>
+                        <p class="lead">A Olivet Sistemas conta com um equipe de suporte preparada para atender
+                            as suas necessidades, com profissionais disponíveis para auxiliar a sua empresa e
+                            esclarecer suas duvida e fornecer todos os treinamentos necessários para utilizar o
+                            sistema, além de atendê-lo pessoalmente na sua 
+                            empresa.</p>
                     </div>
                 </div>
             </div>
