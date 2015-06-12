@@ -14,7 +14,7 @@
         <link href="css/style.css" rel="stylesheet" type="text/css">
         <link href="css/animate.css" rel="stylesheet" />
         <title>Olivet Sistemas</title>
-        <link rel="icon" href="img/icone.ico">
+        <link rel="icon" href="img/icones/icone.ico">
     </head>
     <body>
         <div class="navbar navbar-default navbar-inverse navbar-static-top">
@@ -57,7 +57,7 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <h1 class="text-inverse wow bounceInDown" data-wow-delay="0.2s">Seu negócio</h1>
-                        <h3 class="text-inverse wow bounceInUp" data-wow-delay="0.3s">com quem entende de negócio</h3>
+                        <h2 class="text-inverse wow bounceInUp" data-wow-delay="0.3s">com quem entende de negócio</h2>
                         <p class="text-center"></p>
                         <a class="btn btn-lg btn-primary" href="#solucoes" >Quero conhecer</a>
                     </div>
@@ -69,11 +69,11 @@
                 <div class="row">
                     <div class="col-md-6">
                         <img src="img/icones/contato-suporte.png" alt="">
-                        <a href="+553438222250"><em>Suporte Tecnico</em> <label>(34) 3822-2250</label></a>
+                        <a ><em>Suporte Técnico</em> <label>(34) 3822-2250</label></a>
                     </div>
                     <div class="col-md-6">
                         <img src="img/icones/contato-comercial.png" alt="">
-                        <a href="+553499414604"><em>Comercial</em> <label>(34) 9941-4604</label></a>
+                        <a ><em>Comercial</em> <label>(34) 9941-4604</label></a>
                     </div>
                 </div>
             </div>
@@ -90,25 +90,26 @@
         <div class="section text-justify">
             <div class="container">
                 <div class="col-md-12">
-                    <h1 class="text-center text-primary">Com você e para você</h1>
-                    <p class="text-center"></p>
+                    <h1 class="text-center text-primary wow bounceInUp" data-wow-delay="0.2s">Com você e para você</h1>
+                    <br>
+                    <br>
                 </div>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6 wow bounceInLeft" data-wow-delay="0.3s">
                         <img src="img/slide1.jpg" class="center-block img-responsive">
                         <p class="lead text-justify">A Olivet Sistemas possui as melhores soluções para a gestão do seu 
                             negocio, com direcionamento para cada etapa do desenvolvimento da empresa, cada processo é
                             acompanhado pelas ferramentas que lhe auxiliam no desenvolver das
                             atividades.</p>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 wow bounceInRight" data-wow-delay="0.3s">
                         <img src="img/slide2.jpg" class="center-block img-responsive">
                         <p class="lead">Com maior gerenciamento de cada etapa e processo, vários dos trabalhos manuais são
                             substituídos por apenas cliques, o que vai agilizar todo o funcionamento do seu negocio, assim
                             resultando em mais tempo para aproveitar a vida e os momentos que realmente são 
                             importantes.</p>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 wow bounceInLeft" data-wow-delay="0.3s">
                         <img src="img/slide3.jpg" class="center-block img-responsive">
                         <p class="lead text-justify">Com todo o gerenciamento que o sistema realiza no seu negócio,
                             cada etapa pode ser verificada de perto, através dos inúmeros relatórios que o sistema
@@ -116,7 +117,7 @@
                             onde investir ou qual novo nicho de mercado se deve
                             explorar.</p>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 wow bounceInRight" data-wow-delay="0.3s">
                         <img src="img/slide4.jpg" class="center-block img-responsive">
                         <p class="lead">A Olivet Sistemas conta com um equipe de suporte preparada para atender
                             as suas necessidades, com profissionais disponíveis para auxiliar a sua empresa e
@@ -209,7 +210,7 @@
                     <div class="col-md-12">
                         <div class="col-md-12">
                             <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Soluções</h1>
-                            <p class="text-center wow bounceInDown" data-wow-delay="0.3s">Aqui estão os sistemas disponiveis</p>
+                            <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Aqui estão os sistemas disponiveis</p>
                             <br>
                         </div>
                         <div class="col-md-3">
@@ -406,8 +407,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Colaboradores</h1>
-                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Esta é a equipe Olivet Sistemas que está sempre pronta pra atender-lo</p>
+                        <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s"> Colaboradores</h1>
+                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Esta é a equipe Olivet Sistemas que está sempre pronta pra atende-lo</p>
                     </div>
                 </div>
                 <div class="row">
@@ -423,12 +424,12 @@
                         <h3 class="text-center">Gabriel</h3>
                         <p class="text-center">Gerente Comercial</p>
                     </div>
-                    <div class="col-md-4">
+<!--                    <div class="col-md-4">
                         <img src="img/Colaboradores/Luis.jpg"
                              class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Luis</h3>
                         <p class="text-center">CEO da Olivet Sistemas</p>
-                    </div>
+                    </div>-->
                     <div class="col-md-4">
                         <img src="img/Colaboradores/Rafael.jpg"
                              class="center-block colaboradores img-responsive">
@@ -458,9 +459,15 @@
                 </div>
             </div>
         </div>
-        <div id="contato" class="wrapper style4">
+        <div class="wrapper style4">
             <hr>
-            <article id="contact" class="container">
+            <div class="parceiros">
+                <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Parceiros</h1>
+                <a href="http://atsinformatica.com.br/" target="_blank" title="ATS Informática"><img src="img/parceiros/ats.png" alt="ATS"/></a>
+                <a href="http://www.cappta.com.br/" target="_blank" title="Cappta"><img src="img/parceiros/cappta.png" alt="Cappta"/></a>
+                    <a href="http://yunessistemas.com.br/" target="_blank" title="Yunes Sistemas"><img src="img/parceiros/yunes.png" alt="Yunes"/></a>
+            </div>
+            <article id="contato" class="container">
                 <hr>
                 <header>
                     <h2 class="wow bounceInDown" data-wow-delay="0.2s">Entre em contato conosco</h2>
@@ -500,14 +507,14 @@
                             </ul>
                         </div>
                     </div>
-                </form>       
-                <br>
+                </form>  
+                
                 <footer id="copyright">
                     <hr>
                     <label>Desenvolvido por VTR Soluções</label>
                     <label>|</label>
                     <label>e-mail:
-                        <a>tcssitemas2012@gmail.com</a>
+                        <a>vtrsolucoes@gmail.com</a>
                     </label>
                 </footer>
             </article>

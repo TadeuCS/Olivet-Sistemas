@@ -10,7 +10,7 @@
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href="css/style.css" rel="stylesheet" type="text/css">
-        <link rel="icon" href="img/icone.ico">
+        <link rel="icon" href="img/icones/icone.ico">
     </head>
     <body style="background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/background-wallpapers-32.jpg);">
         <div class="cover">
