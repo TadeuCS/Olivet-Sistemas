@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -6,9 +6,13 @@
         <script src="js/bootstrap.js" type="text/javascript"></script>
         <script src="js/jquery.min.js" type="text/javascript"></script>
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/custom.js"></script>
+        
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href="css/style.css" rel="stylesheet" type="text/css">
+        <link href="css/animate.css" rel="stylesheet" />
         <title>Olivet Sistemas</title>
         <link rel="icon" href="img/icone.ico">
     </head>
@@ -29,10 +33,10 @@
                             <a href="">Olivet Sistemas</a>
                         </li>
                         <li>
-                            <a href="#solucoes">Soluções</a>
+                            <a href="#segmentos">Segmentos</a>
                         </li>
                         <li>
-                            <a href="#segmentos">Segmentos</a>
+                            <a href="#solucoes">Soluções</a>
                         </li>
                         <li>
                             <a href="#depoimentos">Depoimentos</a>
@@ -43,9 +47,9 @@
                         <li>
                             <a href="#contato">Contato</a>
                         </li>
-                        <li>
+<!--                        <li>
                             <a href="login.php">Area do Cliente</a>
-                        </li>
+                        </li>-->
                     </ul>
                 </div>
             </div>
@@ -55,10 +59,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
-                        <h1 class="text-inverse">Seu negócio</h1>
-                        <h3 class="text-inverse">com quem entende de negócio</h3>
+                        <h1 class="text-inverse wow bounceInDown" data-wow-delay="0.2s">Seu negócio</h1>
+                        <h3 class="text-inverse wow bounceInUp" data-wow-delay="0.3s">com quem entende de negócio</h3>
                         <p class="text-center"></p>
-                        <a class="btn btn-lg btn-primary">Quero conhecer</a>
+                        <a class="btn btn-lg btn-primary" href="#solucoes" >Quero conhecer</a>
                     </div>
                 </div>
             </div>
@@ -95,27 +99,33 @@
                 <div class="row">
                     <div class="col-md-6">
                         <img src="img/slide1.jpg" class="center-block img-responsive">
-                        <p class="lead text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                            incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud</p>
+                        <p class="lead text-justify">A Olivet Sistemas possui as melhores soluções para a gestão do seu 
+                            negocio, com direcionamento para cada etapa do desenvolvimento da empresa, cada processo é
+                            acompanhado pelas ferramentas que lhe auxiliam no desenvolver das
+                            atividades.</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide2.jpg" class="center-block img-responsive">
-                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                            incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud</p>
+                        <p class="lead">Com maior gerenciamento de cada etapa e processo, vários dos trabalhos manuais são
+                            substituídos por apenas cliques, o que vai agilizar todo o funcionamento do seu negocio, assim
+                            resultando em mais tempo para aproveitar a vida e os momentos que realmente são 
+                            importantes.</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide3.jpg" class="center-block img-responsive">
-                        <p class="lead text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                            incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud</p>
+                        <p class="lead text-justify">Com todo o gerenciamento que o sistema realiza no seu negócio,
+                            cada etapa pode ser verificada de perto, através dos inúmeros relatórios que o sistema
+                            apresenta, assim mostrando com transparência e agilidade a vida da sua empresa,
+                            onde investir ou qual novo nicho de mercado se deve
+                            explorar.</p>
                     </div>
                     <div class="col-md-6">
                         <img src="img/slide4.jpg" class="center-block img-responsive">
-                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                            incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                            nostrud</p>
+                        <p class="lead">A Olivet Sistemas conta com um equipe de suporte preparada para atender
+                            as suas necessidades, com profissionais disponíveis para auxiliar a sua empresa e
+                            esclarecer suas duvida e fornecer todos os treinamentos necessários para utilizar o
+                            sistema, além de atendê-lo pessoalmente na sua 
+                            empresa.</p>
                     </div>
                 </div>
             </div>
@@ -129,12 +139,12 @@
                     </div>
                 </div>
                 <div class="col-md-12">
-                    <h1 class="text-center text-primary">Segmentos</h1>
-                    <p class="text-center">Nossos sistemas atendem todos estes segmentos</p>
+                    <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Segmentos</h1>
+                    <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Nossos sistemas atendem todos estes segmentos</p>
                     <br>
                 </div>
             </div>
-           <div id="iconesSegmentos">
+            <div id="iconesSegmentos">
                 <ul class="social">
                     <li>
                         <a href="http://atsinformatica.com.br/resulth-atacadista/" target="_blank" title="Distribuidores"><img src="img/segmentos/distribuidora.png"/></a>
@@ -187,7 +197,7 @@
                 </ul>
             </div>
         </div>
-        <div class="section" id="solucoes">
+        <div id="solucoes"  class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -201,8 +211,8 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="col-md-12">
-                            <h1 class="text-center text-primary">Soluções</h1>
-                            <p class="text-center">Aqui estão os sistemas disponiveis</p>
+                            <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Soluções</h1>
+                            <p class="text-center wow bounceInDown" data-wow-delay="0.3s">Aqui estão os sistemas disponiveis</p>
                             <br>
                         </div>
                         <div class="col-md-3">
@@ -210,7 +220,12 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/start.png" class="img-responsive">
-                            <p class="text-justify">fasdfasd</p>
+                            <p class="text-justify">
+                                O modulo ResulthStart vem para atender de forma direta e 
+                                simplificada as necessidades em geral da sua empresa, 
+                                se adequando as necessidades e lhe disponibilizando 
+                                plena administração das operações da sua empresa.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(3)"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -219,9 +234,11 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/business.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">
+                                O modulo ResulthBusiness atende de forma agregada todas as necessidades do seu negocio,
+                                abrangendo diversas etapas externar para facilitar ainda mais 
+                                o gerenciamento de cada processo das atividades de sua empresa.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(4)"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -230,8 +247,11 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/erp.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. enim ad minim veniam, quis nostrud</p>
+                            <p class="text-justify">
+                                O modulo ResulthERP é a solução mais completa para atender a sua empresa,
+                                visando agilizar cada etapa dos processos de gestão do seu negocio, 
+                                integrando todas as funcionalidades do sistema com a rotina da sua organização.
+                            </p>
                             <a
                                 class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/webapp/#(5)"
                                 target="_blank">Saber Mais</a>
@@ -241,9 +261,11 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/web.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">
+                                O modulo ResulthERP é a solução mais completa para atender a sua empresa,
+                                visando agilizar cada etapa dos processos de gestão do seu negocio,
+                                integrando todas as funcionalidades do sistema com a rotina da sua organização.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/resulth-web/"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -252,9 +274,11 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/bi.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">
+                                O modulo ResulthBI é uma ferramenta de geração de relatórios 100% online,
+                                mesclando a gestão e o controle de cada etapa das atividades de sua empresa,
+                                gerando relatórios íntegros e precisos para você adequar o seu negocio a sua maneira e a sua gestão.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/business-intelligence.php/"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -263,9 +287,12 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/e-commerce.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">
+                                O modulo E-commerce funciona como uma vitrine online,
+                                disponibilizando os seus produtos para todos os usuários da internet,
+                                assim abrangendo um nicho de clientes antes não explorados.
+                                Mais disponibilidade de acesso, maior contato com os clientes, mais vendas.
+                            </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/e-commerce.php/"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -274,9 +301,9 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/yunes.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">O Yunes é um sistema voltado para bares, restaurantes, lanchonetes e afins,
+                                disponibilizando o gerenciamento de toda a etapa do funcionamento da sua
+                                empresa desde o controle das mesas até o saldo geral de contas, além do gerenciamento do seu estoque.</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://yunessistemas.com.br/software/"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -285,9 +312,9 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/tef.png" class="img-responsive">
-                            <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor
-                                incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-                                nostrud</p>
+                            <p class="text-justify">O TEF é uma maquina que trás as soluções nas suas vendas em cartão,
+                                não é necessário ficar preso ao comprovante da venda em cartão,
+                                as transações são feitas online e podem ser acessadas de qualquer lugar pelo seu gestor.</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/Produto"
                                target="_blank">Saber Mais</a>
                         </div>
@@ -305,8 +332,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="text-center text-primary">Depoimentos</h1>
-                        <p class="text-center">Veja a opnião de quem usa os nossos sistemas</p>
+                        <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Depoimentos</h1>
+                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Veja a opnião de quem usa os nossos sistemas</p>
                     </div>
                 </div>
                 <div class="row">
@@ -354,8 +381,8 @@
                 <hr id="mapa">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="text-center text-primary">Como chegar</h1>
-                        <p class="text-center">Veja a baixo como nos encontrar</p>
+                        <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Como chegar</h1>
+                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Veja a baixo como nos encontrar</p>
                     </div>
                     <div id="endereco">
                         <h4>R. Dona Luiza, 521, Sala 4.</h4>
@@ -413,8 +440,9 @@
         <div id="contato" class="wrapper style4">
             <hr>
             <article id="contact" class="container">
+                <hr>
                 <header>
-                    <h2>Entre em contato conosco</h2>
+                    <h2 class="wow bounceInDown" data-wow-delay="0.2s">Entre em contato conosco</h2>
                     <br>
                 </header>
                 <form method="post" action="enviar.php">
@@ -452,7 +480,6 @@
                         </div>
                     </div>
                 </form>       
-                <hr>
                 <br>
                 <footer id="copyright">
                     <hr>
