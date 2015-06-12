@@ -41,9 +41,10 @@
             </div>
         </div>
         <div id="contato" class="wrapper style4">
-            <article class="container">
+            <article id="contact" class="container">
+                <hr>
                 <header>
-                    <h2>Entre em contato</h2>
+                    <h2>Entre em contato conosco</h2>
                     <br>
                 </header>
                 <form method="post" action="enviar_home.php">
@@ -81,6 +82,7 @@
                         </div>
                     </div>
                 </form>       
+                <br>
                 <footer id="copyright">
                     <hr>
                     <label>Desenvolvido por VTR Soluções</label>

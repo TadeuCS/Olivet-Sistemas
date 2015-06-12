@@ -21,7 +21,7 @@
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
-                        <span class="sr-only">Toggle navigation</span>
+                        <span class="sr-only"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -47,9 +47,6 @@
                         <li>
                             <a href="#contato">Contato</a>
                         </li>
-<!--                        <li>
-                            <a href="login.php">Area do Cliente</a>
-                        </li>-->
                     </ul>
                 </div>
             </div>
@@ -177,22 +174,22 @@
                         <a href="http://atsinformatica.com.br/resulth-vestuario/" target="_blank" title="Calçados"><img src="img/segmentos/calcados.png"/></a>
                     </li>
                     <li>
-                        <a href="" title="Restaurantes"><img src="img/segmentos/restaurante.png"/></a>
+                        <a title="Restaurantes"><img src="img/segmentos/restaurante.png"/></a>
                     </li>
                     <li>
-                        <a href="" title="Lanchonetes"><img src="img/segmentos/lanchonete.png"/></a>
+                        <a title="Lanchonetes"><img src="img/segmentos/lanchonete.png"/></a>
                     </li>
                     <li>
-                        <a href="" title="Bares"><img src="img/segmentos/bares.png"/></a>
+                        <a title="Bares"><img src="img/segmentos/bares.png"/></a>
                     </li>
                     <li>
-                        <a href="" title="Boates"><img src="img/segmentos/boate.png"/></a>
+                        <a title="Boates"><img src="img/segmentos/boate.png"/></a>
                     </li>
                     <li>
-                        <a href="" title="Sorveterias"><img src="img/segmentos/sorveteria.png"/></a>
+                        <a title="Sorveterias"><img src="img/segmentos/sorveteria.png"/></a>
                     </li>
                     <li>
-                        <a href="" title="Pizzarias"><img src="img/segmentos/pizzaria.png"/></a>
+                        <a title="Pizzarias"><img src="img/segmentos/pizzaria.png"/></a>
                     </li>
                 </ul>
             </div>
@@ -415,24 +412,48 @@
                 </div>
                 <div class="row">
                     <div class="col-md-4">
-                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                             class="center-block img-circle img-responsive">
+                        <img src="img/Colaboradores/Emmeline.jpg"
+                             class="center-block colaboradores img-responsive">
+                        <h3 class="text-center">Emmeline</h3>
+                        <p class="text-center">Coordenadora de Canais</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="img/Colaboradores/Gabriel.jpg"
+                             class="center-block colaboradores img-responsive">
+                        <h3 class="text-center">Gabriel</h3>
+                        <p class="text-center">Gerente Comercial</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="img/Colaboradores/Luis.jpg"
+                             class="center-block colaboradores img-responsive">
+                        <h3 class="text-center">Luis</h3>
+                        <p class="text-center">CEO da Olivet Sistemas</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="img/Colaboradores/Rafael.jpg"
+                             class="center-block colaboradores img-responsive">
+                        <h3 class="text-center">Rafael</h3>
+                        <p class="text-center">Analista de Suporte</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="img/Colaboradores/Roger.jpg"
+                             class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Roger Araújo</h3>
-                        <p class="text-center">Suporte</p>
+                        <p class="text-center">Analista de Suporte</p>
                     </div>
+
                     <div class="col-md-4">
-                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                             class="center-block img-circle img-responsive">
-                        <h3 class="text-center">Vinicius Silva</h3>
-                        <p class="text-center">Suporte
-                            <br>
-                        </p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                             class="center-block img-circle img-responsive">
+                        <img src="img/Colaboradores/Tadeu.jpg"
+                             class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Tadeu Sousa</h3>
-                        <p class="text-center">Suporte</p>
+                        <p class="text-center">Analista de Suporte / Implanter</p>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="img/Colaboradores/Vinicius.jpg"
+                             class="center-block colaboradores img-responsive">
+                        <h3 class="text-center">Vinicius Silva</h3>
+                        <p class="text-center">Analista de Suporte</p>
+                        <br>
                     </div>
                 </div>
             </div>
