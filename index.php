@@ -409,8 +409,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1 class="text-center text-primary">Colaboradores</h1>
-                        <p class="text-center">Esta é a equipe Olivet Sistemas que está sempre pronta pra atender-lo</p>
+                        <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Colaboradores</h1>
+                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Esta é a equipe Olivet Sistemas que está sempre pronta pra atender-lo</p>
                     </div>
                 </div>
                 <div class="row">
