@@ -21,7 +21,7 @@
                         <h1 class="text-inverse">Em breve novo site <span>Olivet Sistemas</span></h1>
                         <br/>
                         <br/>
-                        <a href="#contato"> <img src="img/contato.png" style="width: 100px;"/> </a>
+                        <a href="#contato"> <img src="img/icones/contato.png" style="width: 100px;"/> </a>
                     </div>
                 </div>
             </div>

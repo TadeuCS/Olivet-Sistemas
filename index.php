@@ -8,7 +8,7 @@
         <script src="js/bootstrap.min.js" type="text/javascript"></script>
         <script src="js/wow.min.js"></script>
         <script src="js/custom.js"></script>
-        
+
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href="css/style.css" rel="stylesheet" type="text/css">
@@ -20,6 +20,7 @@
         <div class="navbar navbar-default navbar-inverse navbar-static-top">
             <div class="container">
                 <div class="navbar-header">
+                    <a href="" title="Olivet Sistemas" ><img id="logo" src="img/icones/logo.png" alt="Olivet Sistemas"/></a>
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-ex-collapse">
                         <span class="sr-only"></span>
                         <span class="icon-bar"></span>
@@ -52,7 +53,7 @@
             </div>
         </div>
         <div class="cover">
-            <div class="cover-image" style="background-image: url(img/reuniao.jpg);"></div>
+            <div class="cover-image" style="background-image: url(img/fundo.jpg);"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-md-12 text-center">
@@ -195,17 +196,13 @@
                 </ul>
             </div>
         </div>
-        <div id="solucoes"  class="section">
-            <div class="container">
+        <div id="solucoes">
+            <div class="container" >
                 <div class="row">
                     <div class="col-md-12">
                         <hr>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="section">
-            <div class="container" >
                 <div class="row">
                     <div class="col-md-12">
                         <div class="col-md-12">
@@ -413,44 +410,44 @@
                 </div>
                 <div class="row">
                     <div class="col-md-4">
-                        <img src="img/Colaboradores/Emmeline.jpg"
+                        <img src="img/colaboradores/Emmeline.jpg"
                              class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Emmeline</h3>
                         <p class="text-center">Coordenadora de Canais</p>
                     </div>
                     <div class="col-md-4">
-                        <img src="img/Colaboradores/Gabriel.jpg"
+                        <img src="img/colaboradores/Gabriel.jpg"
                              class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Gabriel</h3>
                         <p class="text-center">Gerente Comercial</p>
                     </div>
-<!--                    <div class="col-md-4">
-                        <img src="img/Colaboradores/Luis.jpg"
+                    <div class="col-md-4">
+                        <img src="img/colaboradores/Luis.jpg"
                              class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Luis</h3>
                         <p class="text-center">CEO da Olivet Sistemas</p>
-                    </div>-->
+                    </div>
                     <div class="col-md-4">
-                        <img src="img/Colaboradores/Rafael.jpg"
+                        <img src="img/colaboradores/Rafael.jpg"
                              class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Rafael</h3>
                         <p class="text-center">Analista de Suporte</p>
                     </div>
                     <div class="col-md-4">
-                        <img src="img/Colaboradores/Roger.jpg"
+                        <img src="img/colaboradores/Roger.jpg"
                              class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Roger Araújo</h3>
                         <p class="text-center">Analista de Suporte</p>
                     </div>
 
                     <div class="col-md-4">
-                        <img src="img/Colaboradores/Tadeu.jpg"
+                        <img src="img/colaboradores/Tadeu.jpg"
                              class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Tadeu Sousa</h3>
                         <p class="text-center">Analista de Suporte / Implanter</p>
                     </div>
                     <div class="col-md-4">
-                        <img src="img/Colaboradores/Vinicius.jpg"
+                        <img src="img/colaboradores/Vinicius.jpg"
                              class="center-block colaboradores img-responsive">
                         <h3 class="text-center">Vinicius Silva</h3>
                         <p class="text-center">Analista de Suporte</p>
@@ -465,7 +462,7 @@
                 <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Parceiros</h1>
                 <a href="http://atsinformatica.com.br/" target="_blank" title="ATS Informática"><img src="img/parceiros/ats.png" alt="ATS"/></a>
                 <a href="http://www.cappta.com.br/" target="_blank" title="Cappta"><img src="img/parceiros/cappta.png" alt="Cappta"/></a>
-                    <a href="http://yunessistemas.com.br/" target="_blank" title="Yunes Sistemas"><img src="img/parceiros/yunes.png" alt="Yunes"/></a>
+                <a href="http://yunessistemas.com.br/" target="_blank" title="Yunes Sistemas"><img src="img/parceiros/yunes.png" alt="Yunes"/></a>
             </div>
             <article id="contato" class="container">
                 <hr>
@@ -508,7 +505,7 @@
                         </div>
                     </div>
                 </form>  
-                
+
                 <footer id="copyright">
                     <hr>
                     <label>Desenvolvido por VTR Soluções</label>
