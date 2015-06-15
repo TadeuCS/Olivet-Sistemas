@@ -4640,13 +4640,14 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 .navbar-inverse .navbar-toggle {
     margin: 1em 1em;
+    background-color: #fff;
 }
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
     background-color: #ccc;
 }
 .navbar-inverse .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #337CBB;
 }
 .navbar-inverse .navbar-collapse,
 .navbar-inverse .navbar-form {
@@ -6957,4 +6958,5 @@ body {
 
 #logo{
     height: 5em;
+    margin: 0 auto;
 }

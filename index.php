@@ -389,15 +389,7 @@
                                 frameborder="0" height="300"></iframe>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <hr>
-                    </div>
-                </div>
+                <hr>
             </div>
         </div>
         <div class="section">
