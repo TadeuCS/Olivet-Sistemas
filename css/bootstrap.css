@@ -1176,12 +1176,7 @@ img {
 .img-circle {
     border-radius: 50%;
 }
-.colaboradores{
-    border-radius: 50%;
-    width: 25em;
-    height: 23em;
-    margin-right: 2em;
-}
+
 hr {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -6954,6 +6949,17 @@ body {
     width: 12em;
     height: 5em;
     margin: 3em 5em;
+}
+
+.colaboradores{
+    border-radius: 50%;
+    width: 25em;
+    height: 23em;
+    margin-right: 2em;
+}
+.depoimentos{
+    width: 12em;
+    height: 10em;
 }
 
 #logo{

@@ -349,42 +349,45 @@
                 </div>
                 <div class="row">
                     <div class="col-md-2">
-                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                             class="img-circle img-responsive">
+                        <img src="img/depoimentos/giovani.png"
+                             class="img-circle center-block depoimentos img-responsive">
                     </div>
                     <div class="col-md-4">
-                        <h3 class="text-left">Giovani</h3>
-                        <p class="text-left">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p>
+                        <h3 class="text-left">Giovani Braga Soares</h3>
+                        <h4 class="text-center"> Supermercado ÊTA</h4>
+                        <p class="text-left text-justify">
+                            Os profissionais da Olivet têm um conhecimento aprofundado 
+                            em contabilidade, o que nos auxilia bastante em relação 
+                            ao SPED e SINTEGRA.
+                        </p>
                     </div>
                     <div class="col-md-2">
-                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                             class="img-circle img-responsive">
+                        <img src="img/depoimentos/daltinho.png"
+                             class="img-circle center-block depoimentos img-responsive">
                     </div>
                     <div class="col-md-4">
-                        <h3 class="text-left">André</h3>
-                        <p class="text-left">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p>
+                        <h3 class="text-left">Adalton José Carvalho</h3>
+                        <h4 class="text-center">Daltinho Tecidos</h4>
+                        <p class="text-left text-justify">
+                            É uma tranquilidade poder contar com um atendimento 
+                            de qualidade aqui em Patos de Minas, que não deixa nada a desejar
+                            em relação aos sistemas e serviços de gestão oferecidos nas capitais.
+                        </p>
                     </div>
-                </div>
-                <div class="row">
                     <div class="col-md-2">
-                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                             class="img-circle img-responsive">
+                        <img src="img/depoimentos/sabiá.png"
+                             class="img-circle center-block depoimentos">
                     </div>
                     <div class="col-md-4">
-                        <h3 class="text-left">Adriano
-                            <br>
-                        </h3>
-                        <p class="text-left">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p>
+                        <h3 class="text-left">Advaldo José de Oliveira</h3>
+                        <h4 class="text-center">Grupo Fortaleza</h4>
+                        <p class="text-left text-justify">
+                            A mudança para Olivet Sistemas significou mais recursos, 
+                            dinamismo, funcionalidade, e uma melhoria consideravel na 
+                            gestão da nossa empresa.
+                        </p>
                     </div>
-                    <div class="col-md-2">
-                        <img src="http://pingendo.github.io/pingendo-bootstrap/assets/user_placeholder.png"
-                             class="img-circle img-responsive">
-                    </div>
-                    <div class="col-md-4 text-center">
-                        <h3 class="text-left">Rodrigo</h3>
-                        <p class="text-left">Lorem ipsum dolor sit amet, adipiscing elit Aenean commodo ligula eget.</p>
-                    </div>
-                </div>
+                    
             </div>
         </div>
         <div class="section">
