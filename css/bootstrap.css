@@ -66,7 +66,7 @@ template {
 .wrapper.style4 form textarea
 {
     border: none;
-    background: #282828;
+    background: #303030;
 }
 
 .wrapper.style4 form input[type=text]:focus,
@@ -74,7 +74,7 @@ template {
 .wrapper.style4 form select:focus,
 .wrapper.style4 form textarea:focus
 {
-    background: #252525;
+    background: #303030;
 }
 a {
     background-color: transparent;
@@ -6913,7 +6913,7 @@ body {
     text-align: justify;
 }
 .col-md-6 label{
-    text-shadow: 2px 2px 2px #888888;
+    /*text-shadow: 2px 2px 2px #888888;*/
 }
 #rodape{
     width: 100%;
@@ -6945,10 +6945,14 @@ body {
     max-height: 50em;
 }
 
+.parceiros {
+
+}
+
 .parceiros img{
     width: 12em;
     height: 5em;
-    margin: 3em 5em;
+    margin: 3em 0em 5em 10.5em;
 }
 
 .colaboradores{

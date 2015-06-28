@@ -40,20 +40,20 @@
                             <a href="#solucoes">Soluções</a>
                         </li>
 
-<!--                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Soluções <span class="caret"></span></a>
-                            <ul class="dropdown-menu" role="menu">
-                                <li><a href="#">Resulth Start</a></li>
-                                <li><a href="#">Resulth Business</a></li>
-                                <li><a href="#">Resulth WEB</a></li>
-                                <li><a href="#">Resulth BI</a></li>
-                                <li><a href="#">E-Commerce</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">Yunes</a></li>
-                                <li class="divider"></li>
-                                <li><a href="#">TEF</a></li>
-                            </ul>
-                        </li>-->
+                        <!--                        <li class="dropdown">
+                                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Soluções <span class="caret"></span></a>
+                                                    <ul class="dropdown-menu" role="menu">
+                                                        <li><a href="#">Resulth Start</a></li>
+                                                        <li><a href="#">Resulth Business</a></li>
+                                                        <li><a href="#">Resulth WEB</a></li>
+                                                        <li><a href="#">Resulth BI</a></li>
+                                                        <li><a href="#">E-Commerce</a></li>
+                                                        <li class="divider"></li>
+                                                        <li><a href="#">Yunes</a></li>
+                                                        <li class="divider"></li>
+                                                        <li><a href="#">TEF</a></li>
+                                                    </ul>
+                                                </li>-->
 
                         <li>
                             <a href="#depoimentos">Depoimentos</a>
@@ -86,11 +86,11 @@
                 <div class="row">
                     <div class="col-md-6">
                         <img src="img/icones/contato-suporte.png" alt="">
-                        <a ><em>Suporte Técnico</em> <label>(34) 3822-2250</label></a>
+                        <a><em>Suporte Técnico</em> <label>(34) 3822-2250</label></a>
                     </div>
                     <div class="col-md-6">
                         <img src="img/icones/contato-comercial.png" alt="">
-                        <a ><em>Comercial</em> <label>(34) 9941-4604</label></a>
+                        <a><em>Comercial</em> <label>(34) 9941-4604</label></a>
                     </div>
                 </div>
             </div>
@@ -100,6 +100,12 @@
                 <div class="row">
                     <div class="col-md-12">
                         <hr>
+                        <div class="parceiros">
+                            <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Parceiros</h1>
+                            <a href="http://atsinformatica.com.br/" target="_blank" title="ATS Informática"><img src="img/parceiros/ats.png" alt="ATS"/></a>
+                            <a href="http://www.cappta.com.br/" target="_blank" title="Cappta"><img src="img/parceiros/cappta.png" alt="Cappta"/></a>
+                            <a href="http://yunessistemas.com.br/" target="_blank" title="Yunes Sistemas"><img src="img/parceiros/yunes.png" alt="Yunes"/></a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -115,14 +121,14 @@
                     <div class="col-md-6 wow bounceInLeft" data-wow-delay="0.3s">
                         <img src="img/slide1.jpg" class="center-block img-responsive">
                         <p class="lead text-justify">A Olivet Sistemas possui as melhores soluções para a gestão do seu 
-                            negocio, com direcionamento para cada etapa do desenvolvimento da empresa, cada processo é
+                            negócio, com direcionamento para cada etapa do desenvolvimento da empresa, cada processo é
                             acompanhado pelas ferramentas que lhe auxiliam no desenvolver das
                             atividades.</p>
                     </div>
                     <div class="col-md-6 wow bounceInRight" data-wow-delay="0.3s">
                         <img src="img/slide2.jpg" class="center-block img-responsive">
                         <p class="lead">Com maior gerenciamento de cada etapa e processo, vários dos trabalhos manuais são
-                            substituídos por apenas cliques, o que vai agilizar todo o funcionamento do seu negocio, assim
+                            substituídos por apenas cliques, o que vai agilizar todo o funcionamento do seu negócio, assim
                             resultando em mais tempo para aproveitar a vida e os momentos que realmente são 
                             importantes.</p>
                     </div>
@@ -137,8 +143,8 @@
                     <div class="col-md-6 wow bounceInRight" data-wow-delay="0.3s">
                         <img src="img/slide4.jpg" class="center-block img-responsive">
                         <p class="lead">A Olivet Sistemas conta com um equipe de suporte preparada para atender
-                            as suas necessidades, com profissionais disponíveis para auxiliar a sua empresa e
-                            esclarecer suas duvida e fornecer todos os treinamentos necessários para utilizar o
+                            as suas necessidades, com profissionais disponíveis para auxiliar a sua empresa,
+                            esclarecer suas dúvidas e fornecer todos os treinamentos necessários para utilizar o
                             sistema, além de atendê-lo pessoalmente na sua 
                             empresa.</p>
                     </div>
@@ -387,145 +393,140 @@
                             gestão da nossa empresa.
                         </p>
                     </div>
-                    
-            </div>
-        </div>
-        <div class="section">
-            <div class="container">
-                <hr id="mapa">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Como chegar</h1>
-                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Veja a baixo como nos encontrar</p>
-                    </div>
-                    <div id="endereco">
-                        <h4>R. Dona Luiza, 521, Sala 4.</h4>
-                        <h4>Centro, Patos de Minas - MG</h4>
-                        <h4>CEP 38700164</h4>
-                    </div>
-                    <div class="col-md-12">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.4814656781327!2d-46.51807600000001!3d-18.597402!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94aef535729f9fad%3A0xc65fefc517b45418!2sOlivet+Sistemas!5e0!3m2!1spt-BR!2sbr!4v1429554134568"
-                                frameborder="0" height="300"></iframe>
-                    </div>
-                </div>
-                <hr>
-            </div>
-        </div>
-        <div class="section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s"> Colaboradores</h1>
-                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Esta é a equipe Olivet Sistemas que está sempre pronta pra atende-lo</p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-4">
-                        <img src="img/colaboradores/Emmeline.jpg"
-                             class="center-block colaboradores img-responsive">
-                        <h3 class="text-center">Emmeline</h3>
-                        <p class="text-center">Coordenadora de Canais</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="img/colaboradores/Gabriel.jpg"
-                             class="center-block colaboradores img-responsive">
-                        <h3 class="text-center">Gabriel</h3>
-                        <p class="text-center">Gerente Comercial</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="img/colaboradores/Luis.jpg"
-                             class="center-block colaboradores img-responsive">
-                        <h3 class="text-center">Luis</h3>
-                        <p class="text-center">CEO da Olivet Sistemas</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="img/colaboradores/Rafael.jpg"
-                             class="center-block colaboradores img-responsive">
-                        <h3 class="text-center">Rafael</h3>
-                        <p class="text-center">Analista de Suporte</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="img/colaboradores/Roger.jpg"
-                             class="center-block colaboradores img-responsive">
-                        <h3 class="text-center">Roger Araújo</h3>
-                        <p class="text-center">Analista de Suporte</p>
-                    </div>
 
-                    <div class="col-md-4">
-                        <img src="img/colaboradores/Tadeu.jpg"
-                             class="center-block colaboradores img-responsive">
-                        <h3 class="text-center">Tadeu Sousa</h3>
-                        <p class="text-center">Analista de Suporte / Implanter</p>
-                    </div>
-                    <div class="col-md-4">
-                        <img src="img/colaboradores/Vinicius.jpg"
-                             class="center-block colaboradores img-responsive">
-                        <h3 class="text-center">Vinicius Silva</h3>
-                        <p class="text-center">Analista de Suporte</p>
-                        <br>
-                    </div>
                 </div>
             </div>
-        </div>
-        <div class="wrapper style4">
-            <hr>
-            <div class="parceiros">
-                <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Parceiros</h1>
-                <a href="http://atsinformatica.com.br/" target="_blank" title="ATS Informática"><img src="img/parceiros/ats.png" alt="ATS"/></a>
-                <a href="http://www.cappta.com.br/" target="_blank" title="Cappta"><img src="img/parceiros/cappta.png" alt="Cappta"/></a>
-                <a href="http://yunessistemas.com.br/" target="_blank" title="Yunes Sistemas"><img src="img/parceiros/yunes.png" alt="Yunes"/></a>
-            </div>
-            <article id="contato" class="container">
-                <hr>
-                <header>
-                    <h2 class="wow bounceInDown" data-wow-delay="0.2s">Entre em contato conosco</h2>
-                    <br>
-                </header>
-                <form method="post" action="enviar.php">
-                    <div>
-                        <div class="row">
-                            <div class="12u">
-                                <input type="text" name="nome" id="name" placeholder="Digite seu nome" required="required">
-                            </div>
+            <div class="section">
+                <div class="container">
+                    <hr id="mapa">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Como chegar</h1>
+                            <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Veja a baixo como nos encontrar</p>
                         </div>
-                        <div class="row">
-                            <div class="12u">
-                                <input type="text" name="email" id="email" placeholder="Digite seu e-mail" required="required">
-                            </div>
+                        <div id="endereco">
+                            <h4>R. Dona Luiza, 521, Sala 4.</h4>
+                            <h4>Centro, Patos de Minas - MG</h4>
+                            <h4>CEP 38700164</h4>
                         </div>
-                        <div class="row">
-                            <div class="12u">
-                                <input type="text" name="assunto" id="subject" placeholder="Digite um assunto" required="required">
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="12u">
-                                <textarea name="mensagem" id="message" 
-                                          required="required" placeholder="Digite a mensagem" ></textarea>
-                            </div>
-                        </div>
-                        <div class="row 200%">
-                            <ul class="actions">
-                                <li>
-                                    <input type="submit" value="Enviar" class="btn btn-block btn-lg btn-primary">
-                                </li>
-                                <li>
-                                    <input type="reset" value="Limpar" class="btn btn-block btn-lg btn-primary">
-                                </li>
-                            </ul>
+                        <div class="col-md-12">
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.4814656781327!2d-46.51807600000001!3d-18.597402!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94aef535729f9fad%3A0xc65fefc517b45418!2sOlivet+Sistemas!5e0!3m2!1spt-BR!2sbr!4v1429554134568"
+                                    frameborder="0" height="300"></iframe>
                         </div>
                     </div>
-                </form>  
-
-                <footer id="copyright">
                     <hr>
-                    <label>Desenvolvido por VTR Soluções</label>
-                    <label>|</label>
-                    <label>e-mail:
-                        <a>vtrsolucoes@gmail.com</a>
-                    </label>
-                </footer>
-            </article>
-        </div>
+                </div>
+            </div>
+            <div class="section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s"> Colaboradores</h1>
+                            <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Esta é a equipe Olivet Sistemas que está sempre pronta pra atende-lo</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <img src="img/colaboradores/Emmeline.jpg"
+                                 class="center-block colaboradores img-responsive">
+                            <h3 class="text-center">Emmeline</h3>
+                            <p class="text-center">Coordenadora de Canais</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="img/colaboradores/Gabriel.jpg"
+                                 class="center-block colaboradores img-responsive">
+                            <h3 class="text-center">Gabriel</h3>
+                            <p class="text-center">Gerente Comercial</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="img/colaboradores/Luis.jpg"
+                                 class="center-block colaboradores img-responsive">
+                            <h3 class="text-center">Luis</h3>
+                            <p class="text-center">CEO da Olivet Sistemas</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="img/colaboradores/Rafael.jpg"
+                                 class="center-block colaboradores img-responsive">
+                            <h3 class="text-center">Rafael</h3>
+                            <p class="text-center">Analista de Suporte</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="img/colaboradores/Roger.jpg"
+                                 class="center-block colaboradores img-responsive">
+                            <h3 class="text-center">Róger</h3>
+                            <p class="text-center">Analista de Suporte</p>
+                        </div>
+
+                        <div class="col-md-4">
+                            <img src="img/colaboradores/Tadeu.jpg"
+                                 class="center-block colaboradores img-responsive">
+                            <h3 class="text-center">Tadeu</h3>
+                            <p class="text-center">Analista de Suporte / Implanter</p>
+                        </div>
+                        <div class="col-md-4">
+                            <img src="img/colaboradores/Vinicius.jpg"
+                                 class="center-block colaboradores img-responsive">
+                            <h3 class="text-center">Vinicius</h3>
+                            <p class="text-center">Analista de Suporte</p>
+                            <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="wrapper style4">
+                <br>
+                <article id="contato" class="container">
+                    <br>
+                    <header>
+                        <h2 class="wow bounceInDown" data-wow-delay="0.2s">Entre em contato conosco</h2>
+                        <br>
+                        <br>
+                    </header>
+                    <form method="post" action="enviar.php">
+                        <div>
+                            <div class="row">
+                                <div class="12u">
+                                    <input type="text" name="nome" id="name" placeholder="Digite seu nome" required="required">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="12u">
+                                    <input type="text" name="email" id="email" placeholder="Digite seu e-mail" required="required">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="12u">
+                                    <input type="text" name="assunto" id="subject" placeholder="Digite um assunto" required="required">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="12u">
+                                    <textarea name="mensagem" id="message" 
+                                              required="required" placeholder="Digite a mensagem"></textarea>
+                                </div>
+                            </div>
+                            <div class="row 200%">
+                                <ul class="actions">
+                                    <li>
+                                        <input type="submit" value="Enviar" class="btn btn-block btn-lg btn-primary">
+                                    </li>
+                                    <li>
+                                        <input type="reset" value="Limpar" class="btn btn-block btn-lg btn-primary">
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </form>  
+
+                    <footer id="copyright">
+                        <hr>
+                        <label>Desenvolvido por VTR Soluções</label>
+                        <label>|</label>
+                        <label>e-mail:
+                            <a>vtrsolucoes@gmail.com</a>
+                        </label>
+                    </footer>
+                </article>
+            </div>
     </body>
 </html>

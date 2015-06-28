@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 //Variáveis
 
@@ -9,7 +9,7 @@ $mensagem = $_POST['mensagem'];
 
 $arquivo = $mensagem;
 
-$emailenviar = "mail@campanhadecoracao.com.br";
+$emailenviar = "comercial@olivetsistemas.com.br, luis@olivet.com.br";
 $destino = $emailenviar;
 
 // É necessário indicar que o formato do e-mail é html
