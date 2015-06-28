@@ -238,7 +238,7 @@
                             </h2>
                             <img src="img/solucoes/start.png" class="img-responsive">
                             <p class="text-justify">
-                                O modulo ResulthStart vem para atender de forma direta e 
+                                O módulo ResulthStart vem para atender de forma direta e 
                                 simplificada as necessidades em geral da sua empresa, 
                                 se adequando as necessidades e lhe disponibilizando 
                                 plena administração das operações da sua empresa.
@@ -252,7 +252,7 @@
                             </h2>
                             <img src="img/solucoes/business.png" class="img-responsive">
                             <p class="text-justify">
-                                O modulo ResulthBusiness atende de forma agregada todas as necessidades do seu negocio,
+                                O módulo ResulthBusiness atende de forma agregada todas as necessidades do seu negocio,
                                 abrangendo diversas etapas externar para facilitar ainda mais 
                                 o gerenciamento de cada processo das atividades de sua empresa.
                             </p>
@@ -265,7 +265,7 @@
                             </h2>
                             <img src="img/solucoes/erp.png" class="img-responsive">
                             <p class="text-justify">
-                                O modulo ResulthERP é a solução mais completa para atender a sua empresa,
+                                O módulo ResulthERP é a solução mais completa para atender a sua empresa,
                                 visando agilizar cada etapa dos processos de gestão do seu negocio, 
                                 integrando todas as funcionalidades do sistema com a rotina da sua organização.
                             </p>
@@ -279,9 +279,9 @@
                             </h2>
                             <img src="img/solucoes/web.png" class="img-responsive">
                             <p class="text-justify">
-                                O modulo ResulthERP é a solução mais completa para atender a sua empresa,
-                                visando agilizar cada etapa dos processos de gestão do seu negocio,
-                                integrando todas as funcionalidades do sistema com a rotina da sua organização.
+                                O módulo ResulthWeb é uma solução em nuvem, acessível através da internet, disponibilizando
+                                os mesmos recursos do seu módulo a qualquer momento que você precisar e onde você precisar,
+                                praticidade e agilidade resumidas em um acesso rápido e confiável.
                             </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/resulth-web/"
                                target="_blank">Saber Mais</a>
@@ -292,7 +292,7 @@
                             </h2>
                             <img src="img/solucoes/bi.png" class="img-responsive">
                             <p class="text-justify">
-                                O modulo ResulthBI é uma ferramenta de geração de relatórios 100% online,
+                                O módulo ResulthBI é uma ferramenta de geração de relatórios 100% online,
                                 mesclando a gestão e o controle de cada etapa das atividades de sua empresa,
                                 gerando relatórios íntegros e precisos para você adequar o seu negocio a sua maneira e a sua gestão.
                             </p>
@@ -305,7 +305,7 @@
                             </h2>
                             <img src="img/solucoes/e-commerce.png" class="img-responsive">
                             <p class="text-justify">
-                                O modulo E-commerce funciona como uma vitrine online,
+                                O módulo E-commerce funciona como uma vitrine online,
                                 disponibilizando os seus produtos para todos os usuários da internet,
                                 assim abrangendo um nicho de clientes antes não explorados.
                                 Mais disponibilidade de acesso, maior contato com os clientes, mais vendas.
@@ -329,7 +329,7 @@
                                 <br>
                             </h2>
                             <img src="img/solucoes/tef.png" class="img-responsive">
-                            <p class="text-justify">O TEF é uma maquina que trás as soluções nas suas vendas em cartão,
+                            <p class="text-justify">O TEF é uma máquina que traz as soluções nas suas vendas em cartão,
                                 não é necessário ficar preso ao comprovante da venda em cartão,
                                 as transações são feitas online e podem ser acessadas de qualquer lugar pelo seu gestor.</p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/Produto"
