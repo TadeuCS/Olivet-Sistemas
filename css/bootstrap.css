@@ -4368,7 +4368,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
     .navbar-nav {
         float: left;
-/*        margin: 0;*/
+        /*        margin: 0;*/
     }
     .navbar-nav > li {
         float: left;
@@ -6918,43 +6918,25 @@ body {
     box-shadow: 1px -2px 1px #ddd;
     background-color: #337CBB;
 }
-.col-sm-6 a{
+.col-sm-6{
     text-decoration: none;
     color: #fff;
-    font-size: 1.5em;
+    font-size: 1.7em;
+    font-family: Georgia;
+    /*margin-top: 2%;*/
 }
 .col-sm-6 em{
     text-decoration: none;
     color: #fff;
-    font-family: Georgia;
-    font-size: 2em;
-    display: block;
-    margin: 2%;
+    /*font-family: Arial;*/
+    /*display: block;*/
+    /*margin-top: 2%;*/
 }
 
 #rodape img{
-    max-width: 16%;
-    max-height: 10%;
+    max-width: 45px;
+    max-height: 45px;
 }
-/*#rodape a{
-    text-decoration: none;
-    color: white;
-}
-#rodape a em{
-    font-size: 1.5em;
-}
-#rodape img{
-    width: 46px;
-    height: 46px;
-    margin-right: 2%;
-}*/
-/*#rodape a label{
-    margin: 1.5% 6% 1.5% 2%;
-    font-family: Raleway, 'PT Sans Narrow', Arial, sans-serif;
-    font-family: Georgia;
-    font-size: 2em;
-    font-style: italic;
-}*/
 
 .col-md-12 iframe{
     max-height: 54em;
