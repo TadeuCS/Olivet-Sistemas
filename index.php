@@ -142,7 +142,7 @@
                     </div>
                     <div class="col-md-6 wow bounceInRight" data-wow-delay="0.3s">
                         <img src="img/slide4.jpg" class="center-block img-responsive">
-                        <p class="lead">A Olivet Sistemas conta com um equipe de suporte preparada para atender
+                        <p class="lead">A Olivet Sistemas conta com uma equipe de suporte preparada para atender
                             as suas necessidades, com profissionais disponíveis para auxiliar a sua empresa,
                             esclarecer suas dúvidas e fornecer todos os treinamentos necessários para utilizar o
                             sistema, além de atendê-lo pessoalmente na sua 
