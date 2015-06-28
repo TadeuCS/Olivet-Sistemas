@@ -6940,13 +6940,13 @@ body {
     font-style: italic;
 }
 .col-md-12 iframe{
-    max-height: 50em;
+    max-height: 54em;
 }
 
 .parceiros img{
     width: 12em;
     height: 5em;
-    /*margin: 3em 0em 5em 10.5em;*/
+    margin: 3em 0em 5em 10.5em;
 }
 
 .colaboradores{
