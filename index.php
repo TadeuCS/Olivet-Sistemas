@@ -84,11 +84,11 @@
         <div class="section">
             <div class="container text-center" id="rodape">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6 text-center">
                         <img src="img/icones/contato-suporte.png" alt="">
                         <a><em>Suporte Técnico</em> <label>(34) 3822-2250</label></a>
                     </div>
-                    <div class="col-md-6">
+                    <div class="col-md-6 text-center">
                         <img src="img/icones/contato-comercial.png" alt="">
                         <a><em>Comercial</em> <label>(34) 9941-4604</label></a>
                     </div>
@@ -102,9 +102,15 @@
                         <hr>
                         <div class="parceiros">
                             <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Parceiros</h1>
-                            <a href="http://atsinformatica.com.br/" target="_blank" title="ATS Informática"><img src="img/parceiros/ats.png" alt="ATS"/></a>
-                            <a href="http://www.cappta.com.br/" target="_blank" title="Cappta"><img src="img/parceiros/cappta.png" alt="Cappta"/></a>
-                            <a href="http://yunessistemas.com.br/" target="_blank" title="Yunes Sistemas"><img src="img/parceiros/yunes.png" alt="Yunes"/></a>
+                            <div class="col-lg-4 text-center">
+                                <a href="http://atsinformatica.com.br/" target="_blank" title="ATS Informática"><img src="img/parceiros/ats.png" alt="ATS"/></a>    
+                            </div>
+                            <div class="col-lg-4 text-center">
+                                <a href="http://www.cappta.com.br/" target="_blank" title="Cappta"><img src="img/parceiros/cappta.png" alt="Cappta"/></a>
+                            </div>
+                            <div class="col-lg-4 text-center">
+                                <a href="http://yunessistemas.com.br/" target="_blank" title="Yunes Sistemas"><img src="img/parceiros/yunes.png" alt="Yunes"/></a>    
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -363,7 +369,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Depoimentos</h1>
-                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Veja a opnião de quem usa os nossos sistemas</p>
+                        <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Veja a opinião de quem usa os nossos sistemas</p>
                     </div>
                 </div>
                 <div class="row">
