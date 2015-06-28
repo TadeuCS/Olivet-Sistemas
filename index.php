@@ -473,9 +473,10 @@
                     </div>
                 </div>
             </div>
+            
             <div class="wrapper style4">
-                <br>
-                <article id="contato" class="container">
+                <hr id="contato">
+                <article class="container">
                     <br>
                     <header>
                         <h2 class="wow bounceInDown" data-wow-delay="0.2s">Entre em contato conosco</h2>
