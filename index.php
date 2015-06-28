@@ -235,7 +235,7 @@
                     <div class="col-md-12">
                         <div class="col-md-12">
                             <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Soluções</h1>
-                            <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Aqui estão os sistemas disponiveis</p>
+                            <p class="text-center wow bounceInUp" data-wow-delay="0.3s">Aqui estão os sistemas disponíveis</p>
                             <br>
                         </div>
                         <div class="col-md-3">
