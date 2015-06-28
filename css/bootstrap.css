@@ -6918,7 +6918,18 @@ body {
     box-shadow: 1px -2px 1px #ddd;
     background-color: #337CBB;
 }
-#rodape a{
+.col-sm-6 a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5em;
+}
+.col-sm-6 em{
+    text-decoration: none;
+    color: #fff;
+    font-size: 2.2em;
+    margin-top: 10px;
+}
+/*#rodape a{
     text-decoration: none;
     color: white;
 }
@@ -6929,13 +6940,15 @@ body {
     width: 46px;
     height: 46px;
     margin-right: 2%;
-}
-#rodape a label{
-    margin: 1.5% 6% 1.5% 0;
+}*/
+/*#rodape a label{
+    margin: 1.5% 6% 1.5% 2%;
     font-family: Raleway, 'PT Sans Narrow', Arial, sans-serif;
+    font-family: Georgia;
     font-size: 2em;
     font-style: italic;
-}
+}*/
+
 .col-md-12 iframe{
     max-height: 54em;
 }

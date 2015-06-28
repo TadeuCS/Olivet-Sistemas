@@ -83,14 +83,34 @@
         </div>
         <div class="section">
             <div class="container text-center" id="rodape">
+                <!--                <div class="row">
+                                    <div class="col-md-6 text-center">
+                                        <img src="img/icones/contato-suporte.png" alt="Contato Suporte">
+                                        <a><em>Suporte Técnico</em> <label>(34) 3822-2250</label></a>
+                                    </div>
+                                    <div class="col-md-6 text-center">
+                                        <img src="img/icones/contato-comercial.png" alt="Contato Comercial">
+                                        <a><em>Comercial</em> <label>(34) 9941-4604</label></a>
+                                    </div>
+                                </div>-->
                 <div class="row">
                     <div class="col-md-6 text-center">
-                        <img src="img/icones/contato-suporte.png" alt="">
-                        <a><em>Suporte Técnico</em> <label>(34) 3822-2250</label></a>
+                        <div class="col-sm-6">
+                            <img src="img/icones/contato-suporte.png" alt="Contato Suporte">
+                            <a>Suporte Técnico</a>
+                        </div>
+                        <div class="col-sm-6">
+                            <em>(34) 3822-2250</em>
+                        </div>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="img/icones/contato-comercial.png" alt="">
-                        <a><em>Comercial</em> <label>(34) 9941-4604</label></a>
+                        <div class="col-sm-6">
+                            <img src="img/icones/contato-comercial.png" alt="Contato Comercial">
+                            <a>Comercial</a>
+                        </div>
+                        <div class="col-sm-6">
+                            <em>(34) 9941-4604</em>    
+                        </div>
                     </div>
                 </div>
             </div>
@@ -125,7 +145,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6 wow bounceInLeft" data-wow-delay="0.3s">
-                        <img src="img/slide1.jpg" class="center-block img-responsive">
+                        <img src="img/slide1.jpg" alt="" class="center-block img-responsive">
                         <p class="lead text-justify">A Olivet Sistemas possui as melhores soluções para a gestão do seu 
                             negócio, com direcionamento para cada etapa do desenvolvimento da empresa, cada processo é
                             acompanhado pelas ferramentas que lhe auxiliam no desenvolver das
