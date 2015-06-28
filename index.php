@@ -85,11 +85,11 @@
             <div class="container text-center" id="rodape">
                 <div class="row">
                     <div class="col-md-6 text-center">
-                        <img src="img/icones/contato-suporte.png" alt="">
+                        <img src="img/icones/contato-suporte.png" alt="Contato Suporte">
                         <a><em>Suporte Técnico</em> <label>(34) 3822-2250</label></a>
                     </div>
                     <div class="col-md-6 text-center">
-                        <img src="img/icones/contato-comercial.png" alt="">
+                        <img src="img/icones/contato-comercial.png" alt="Contato Comercial">
                         <a><em>Comercial</em> <label>(34) 9941-4604</label></a>
                     </div>
                 </div>
@@ -125,21 +125,21 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6 wow bounceInLeft" data-wow-delay="0.3s">
-                        <img src="img/slide1.jpg" class="center-block img-responsive">
+                        <img src="img/slide1.jpg" alt="Entendendo seu Negócio" class="center-block img-responsive">
                         <p class="lead text-justify">A Olivet Sistemas possui as melhores soluções para a gestão do seu 
                             negócio, com direcionamento para cada etapa do desenvolvimento da empresa, cada processo é
                             acompanhado pelas ferramentas que lhe auxiliam no desenvolver das
                             atividades.</p>
                     </div>
                     <div class="col-md-6 wow bounceInRight" data-wow-delay="0.3s">
-                        <img src="img/slide2.jpg" class="center-block img-responsive">
+                        <img src="img/slide2.jpg" alt="aproveitar a vida" class="center-block img-responsive">
                         <p class="lead">Com maior gerenciamento de cada etapa e processo, vários dos trabalhos manuais são
                             substituídos por apenas cliques, o que vai agilizar todo o funcionamento do seu negócio, assim
                             resultando em mais tempo para aproveitar a vida e os momentos que realmente são 
                             importantes.</p>
                     </div>
                     <div class="col-md-6 wow bounceInLeft" data-wow-delay="0.3s">
-                        <img src="img/slide3.jpg" class="center-block img-responsive">
+                        <img src="img/slide3.jpg" alt="Relatórios" class="center-block img-responsive">
                         <p class="lead text-justify">Com todo o gerenciamento que o sistema realiza no seu negócio,
                             cada etapa pode ser verificada de perto, através dos inúmeros relatórios que o sistema
                             apresenta, assim mostrando com transparência e agilidade a vida da sua empresa,
@@ -147,7 +147,7 @@
                             explorar.</p>
                     </div>
                     <div class="col-md-6 wow bounceInRight" data-wow-delay="0.3s">
-                        <img src="img/slide4.jpg" class="center-block img-responsive">
+                        <img src="img/slide4.jpg" alt="Suporte Técnico" class="center-block img-responsive">
                         <p class="lead">A Olivet Sistemas conta com uma equipe de suporte preparada para atender
                             as suas necessidades, com profissionais disponíveis para auxiliar a sua empresa,
                             esclarecer suas dúvidas e fornecer todos os treinamentos necessários para utilizar o
@@ -174,52 +174,52 @@
             <div id="iconesSegmentos">
                 <ul class="social">
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-atacadista/" target="_blank" title="Distribuidores"><img src="img/segmentos/distribuidora.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-atacadista/" target="_blank" title="Distribuidores"><img src="img/segmentos/distribuidora.png" alt="Distribuidores"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-ceramicas/" target="_blank" title="Cerâmica"><img src="img/segmentos/ceramica.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-ceramicas/" target="_blank" title="Cerâmica"><img src="img/segmentos/ceramica.png" alt="Cerâmica"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-postos-de-gasolina/" target="_blank" title="Posto de Combustivel"><img src="img/segmentos/posto.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-postos-de-gasolina/" target="_blank" title="Posto de Combustivel"><img src="img/segmentos/posto.png" alt="Posto de Combustivel"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-industrias/" target="_blank" title="Industria"><img src="img/segmentos/industria.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-industrias/" target="_blank" title="Industria"><img src="img/segmentos/industria.png" alt="Industria"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-papelarias/" target="_blank" title="Papelaria"><img src="img/segmentos/papelaria.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-papelarias/" target="_blank" title="Papelaria"><img src="img/segmentos/papelaria.png" alt="Papelaria"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-oticas/" target="_blank" title="Ótica"><img src="img/segmentos/otica.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-oticas/" target="_blank" title="Ótica"><img src="img/segmentos/otica.png" alt="Ótica"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-construcao/" target="_blank" title="Matériais de Construção"><img src="img/segmentos/construcao.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-construcao/" target="_blank" title="Matériais de Construção"><img src="img/segmentos/construcao.png" alt="Matériais de Construção"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-lojas/" target="_blank" title="Lojas"><img src="img/segmentos/lojas.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-lojas/" target="_blank" title="Lojas"><img src="img/segmentos/lojas.png" alt="Lojas"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-supermercados/" target="_blank" title="Supermercado"><img src="img/segmentos/supermercado.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-supermercados/" target="_blank" title="Supermercado"><img src="img/segmentos/supermercado.png" alt="Supermercado"/></a>
                     </li>
                     <li>
-                        <a href="http://atsinformatica.com.br/resulth-vestuario/" target="_blank" title="Calçados"><img src="img/segmentos/calcados.png"/></a>
+                        <a href="http://atsinformatica.com.br/resulth-vestuario/" target="_blank" title="Calçados"><img src="img/segmentos/calcados.png" alt="Calçados"/></a>
                     </li>
                     <li>
-                        <a title="Restaurantes"><img src="img/segmentos/restaurante.png"/></a>
+                        <a title="Restaurantes"><img src="img/segmentos/restaurante.png" alt="Restaurantes"/></a>
                     </li>
                     <li>
-                        <a title="Lanchonetes"><img src="img/segmentos/lanchonete.png"/></a>
+                        <a title="Lanchonetes"><img src="img/segmentos/lanchonete.png" alt="Lanchonetes"/></a>
                     </li>
                     <li>
-                        <a title="Bares"><img src="img/segmentos/bares.png"/></a>
+                        <a title="Bares"><img src="img/segmentos/bares.png" alt="Bares"/></a>
                     </li>
                     <li>
-                        <a title="Boates"><img src="img/segmentos/boate.png"/></a>
+                        <a title="Boates"><img src="img/segmentos/boate.png" alt="Boates"/></a>
                     </li>
                     <li>
-                        <a title="Sorveterias"><img src="img/segmentos/sorveteria.png"/></a>
+                        <a title="Sorveterias"><img src="img/segmentos/sorveteria.png" alt="Sorveterias"/></a>
                     </li>
                     <li>
-                        <a title="Pizzarias"><img src="img/segmentos/pizzaria.png"/></a>
+                        <a title="Pizzarias"><img src="img/segmentos/pizzaria.png" alt="Pizzarias"/></a>
                     </li>
                 </ul>
             </div>
@@ -242,7 +242,7 @@
                             <h2 class="text-center">Resulth Start
                                 <br>
                             </h2>
-                            <img src="img/solucoes/start.png" class="img-responsive">
+                            <img src="img/solucoes/start.png" alt="ResulthStart" class="img-responsive">
                             <p class="text-justify">
                                 O módulo ResulthStart vem para atender de forma direta e 
                                 simplificada as necessidades em geral da sua empresa, 
@@ -256,7 +256,7 @@
                             <h2 class="text-center">Resulth Business
                                 <br>
                             </h2>
-                            <img src="img/solucoes/business.png" class="img-responsive">
+                            <img src="img/solucoes/business.png" alt="Business" class="img-responsive">
                             <p class="text-justify">
                                 O módulo ResulthBusiness atende de forma agregada todas as necessidades do seu negocio,
                                 abrangendo diversas etapas externar para facilitar ainda mais 
@@ -269,7 +269,7 @@
                             <h2 class="text-center">Resulth ERP
                                 <br>
                             </h2>
-                            <img src="img/solucoes/erp.png" class="img-responsive">
+                            <img src="img/solucoes/erp.png" alt="ERP" class="img-responsive">
                             <p class="text-justify">
                                 O módulo ResulthERP é a solução mais completa para atender a sua empresa,
                                 visando agilizar cada etapa dos processos de gestão do seu negocio, 
@@ -283,7 +283,7 @@
                             <h2 class="text-center">Resulth WEB
                                 <br>
                             </h2>
-                            <img src="img/solucoes/web.png" class="img-responsive">
+                            <img src="img/solucoes/web.png" alt="Web" class="img-responsive">
                             <p class="text-justify">
                                 O módulo ResulthWeb é uma solução em nuvem, acessível através da internet, disponibilizando
                                 os mesmos recursos do seu módulo a qualquer momento que você precisar e onde você precisar,
@@ -296,7 +296,7 @@
                             <h2 class="text-center">Resulth BI
                                 <br>
                             </h2>
-                            <img src="img/solucoes/bi.png" class="img-responsive">
+                            <img src="img/solucoes/bi.png" alt="BI" class="img-responsive">
                             <p class="text-justify">
                                 O módulo ResulthBI é uma ferramenta de geração de relatórios 100% online,
                                 mesclando a gestão e o controle de cada etapa das atividades de sua empresa,
@@ -309,7 +309,7 @@
                             <h2 class="text-center">E-Commerce
                                 <br>
                             </h2>
-                            <img src="img/solucoes/e-commerce.png" class="img-responsive">
+                            <img src="img/solucoes/e-commerce.png" alt="E-commerce" class="img-responsive">
                             <p class="text-justify">
                                 O módulo E-commerce funciona como uma vitrine online,
                                 disponibilizando os seus produtos para todos os usuários da internet,
@@ -323,7 +323,7 @@
                             <h2 class="text-center">Yunes
                                 <br>
                             </h2>
-                            <img src="img/solucoes/yunes.png" class="img-responsive">
+                            <img src="img/solucoes/yunes.png" alt="Yunes" class="img-responsive">
                             <p class="text-justify">O Yunes é um sistema voltado para bares, restaurantes, lanchonetes e afins,
                                 disponibilizando o gerenciamento de toda a etapa do funcionamento da sua
                                 empresa desde o controle das mesas até o saldo geral de contas, além do gerenciamento do seu estoque.</p>
@@ -334,7 +334,7 @@
                             <h2 class="text-center">TEF
                                 <br>
                             </h2>
-                            <img src="img/solucoes/tef.png" class="img-responsive">
+                            <img src="img/solucoes/tef.png" alt="TEF" class="img-responsive">
                             <p class="text-justify">O TEF é uma máquina que traz as soluções nas suas vendas em cartão,
                                 não é necessário ficar preso ao comprovante da venda em cartão,
                                 as transações são feitas online e podem ser acessadas de qualquer lugar pelo seu gestor.</p>
@@ -345,7 +345,7 @@
                             <h2 class="text-center">Soluções Fiscais
                                 <br>
                             </h2>
-                            <img src="img/solucoes/fiscais.png" class="img-responsive">
+                            <img src="img/solucoes/fiscais.png" alt="Fiscais" class="img-responsive">
                             <p class="text-justify">Os Sistemas Resulth tem as Soluções Fiscais que a sua empresa necessita, 
                                 dentre estas estão SINTEGRA, SPED CONTÁBIL, SPED FISCAL E PIS COFINS.
                                 Não deixe a sua empresa ser mais uma a perder dinheiro com multas e autuações, ou até encerrar suas atividades
@@ -374,7 +374,7 @@
                 </div>
                 <div class="row">
                     <div class="col-md-2">
-                        <img src="img/depoimentos/giovani.png"
+                        <img src="img/depoimentos/giovani.png" alt="Giovani"
                              class="img-circle center-block depoimentos img-responsive">
                     </div>
                     <div class="col-md-4">
@@ -387,7 +387,7 @@
                         </p>
                     </div>
                     <div class="col-md-2">
-                        <img src="img/depoimentos/daltinho.png"
+                        <img src="img/depoimentos/daltinho.png" alt="Daltinho"
                              class="img-circle center-block depoimentos img-responsive">
                     </div>
                     <div class="col-md-4">
@@ -400,7 +400,7 @@
                         </p>
                     </div>
                     <div class="col-md-2">
-                        <img src="img/depoimentos/sabiá.png"
+                        <img src="img/depoimentos/sabiá.png" alt="Sabiá"
                              class="img-circle center-block depoimentos">
                     </div>
                     <div class="col-md-4">
@@ -446,44 +446,44 @@
                     </div>
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="img/colaboradores/Emmeline.jpg"
+                            <img src="img/colaboradores/Emmeline.jpg" alt="Emmeline"
                                  class="center-block colaboradores img-responsive">
                             <h3 class="text-center">Emmeline</h3>
                             <p class="text-center">Coordenadora de Canais</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="img/colaboradores/Gabriel.jpg"
+                            <img src="img/colaboradores/Gabriel.jpg" alt="Gabriel"
                                  class="center-block colaboradores img-responsive">
                             <h3 class="text-center">Gabriel</h3>
                             <p class="text-center">Gerente Comercial</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="img/colaboradores/Luis.jpg"
+                            <img src="img/colaboradores/Luis.jpg" alt="Luis"
                                  class="center-block colaboradores img-responsive">
                             <h3 class="text-center">Luis</h3>
                             <p class="text-center">CEO da Olivet Sistemas</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="img/colaboradores/Rafael.jpg"
+                            <img src="img/colaboradores/Rafael.jpg" alt="Rafael"
                                  class="center-block colaboradores img-responsive">
                             <h3 class="text-center">Rafael</h3>
                             <p class="text-center">Analista de Suporte</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="img/colaboradores/Roger.jpg"
+                            <img src="img/colaboradores/Roger.jpg" alt="Róger"
                                  class="center-block colaboradores img-responsive">
                             <h3 class="text-center">Róger</h3>
                             <p class="text-center">Analista de Suporte</p>
                         </div>
 
                         <div class="col-md-4">
-                            <img src="img/colaboradores/Tadeu.jpg"
+                            <img src="img/colaboradores/Tadeu.jpg" alt="Tadeu"
                                  class="center-block colaboradores img-responsive">
                             <h3 class="text-center">Tadeu</h3>
                             <p class="text-center">Analista de Suporte / Implanter</p>
                         </div>
                         <div class="col-md-4">
-                            <img src="img/colaboradores/Vinicius.jpg"
+                            <img src="img/colaboradores/Vinicius.jpg" alt="Vinicius"
                                  class="center-block colaboradores img-responsive">
                             <h3 class="text-center">Vinicius</h3>
                             <p class="text-center">Analista de Suporte</p>
