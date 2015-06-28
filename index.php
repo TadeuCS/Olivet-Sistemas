@@ -335,6 +335,19 @@
                             <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/Produto"
                                target="_blank">Saber Mais</a>
                         </div>
+                        <div class="col-md-3">
+                            <h2 class="text-center">Soluções Fiscais
+                                <br>
+                            </h2>
+                            <img src="img/solucoes/fiscais.png" class="img-responsive">
+                            <p class="text-justify">Os Sistemas Resulth tem as Soluções Fiscais que a sua empresa necessita, 
+                                dentre estas estão SINTEGRA, SPED FISCAL E PIS COFINS.
+                                Não deixe a sua empresa ser mais uma a perder dinheiro com multas e autuações, ou até encerrar suas atividades
+                                por causa de irregularidades na prestação de contas ao Fisco.
+                            </p>
+                            <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/Produto"
+                               target="_blank">Saber Mais</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -473,7 +486,7 @@
                     </div>
                 </div>
             </div>
-            
+
             <div class="wrapper style4">
                 <hr id="contato">
                 <article class="container">
