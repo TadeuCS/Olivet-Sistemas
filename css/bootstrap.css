@@ -6926,8 +6926,15 @@ body {
 .col-sm-6 em{
     text-decoration: none;
     color: #fff;
-    font-size: 2.2em;
-    margin-top: 10px;
+    font-family: Georgia;
+    font-size: 2em;
+    display: block;
+    margin: 2%;
+}
+
+#rodape img{
+    max-width: 16%;
+    max-height: 10%;
 }
 /*#rodape a{
     text-decoration: none;

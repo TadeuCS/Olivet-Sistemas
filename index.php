@@ -16,7 +16,7 @@
         <title>Olivet Sistemas</title>
         <link rel="icon" href="img/icones/icone.ico">
     </head>
-    <body>
+    
         <div class="navbar navbar-default navbar-inverse navbar-static-top">
             <div class="container">
                 <div class="navbar-header">
@@ -94,21 +94,21 @@
                                     </div>
                                 </div>-->
                 <div class="row">
-                    <div class="col-md-6 text-center">
-                        <div class="col-sm-6">
+                    <div class="col-md-6">
+                        <div class="col-sm-6 text-right">
                             <img src="img/icones/contato-suporte.png" alt="Contato Suporte">
                             <a>Suporte Técnico</a>
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-6 text-left">
                             <em>(34) 3822-2250</em>
                         </div>
                     </div>
-                    <div class="col-md-6 text-center">
-                        <div class="col-sm-6">
+                    <div class="col-md-6">
+                        <div class="col-sm-6 text-right">
                             <img src="img/icones/contato-comercial.png" alt="Contato Comercial">
                             <a>Comercial</a>
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-6 text-left">
                             <em>(34) 9941-4604</em>    
                         </div>
                     </div>
@@ -435,6 +435,7 @@
 
                 </div>
             </div>
+        </div>
             <div class="section">
                 <div class="container">
                     <hr id="mapa">
@@ -450,7 +451,7 @@
                         </div>
                         <div class="col-md-12">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3781.4814656781327!2d-46.51807600000001!3d-18.597402!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94aef535729f9fad%3A0xc65fefc517b45418!2sOlivet+Sistemas!5e0!3m2!1spt-BR!2sbr!4v1429554134568"
-                                    frameborder="0" height="300"></iframe>
+                                     height="300"></iframe>
                         </div>
                     </div>
                     <hr>
@@ -568,5 +569,4 @@
                     </footer>
                 </article>
             </div>
-    </body>
 </html>
