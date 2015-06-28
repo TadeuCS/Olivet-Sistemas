@@ -341,7 +341,7 @@
                             </h2>
                             <img src="img/solucoes/fiscais.png" class="img-responsive">
                             <p class="text-justify">Os Sistemas Resulth tem as Soluções Fiscais que a sua empresa necessita, 
-                                dentre estas estão SINTEGRA, SPED FISCAL E PIS COFINS.
+                                dentre estas estão SINTEGRA, SPED CONTÁBIL, SPED FISCAL E PIS COFINS.
                                 Não deixe a sua empresa ser mais uma a perder dinheiro com multas e autuações, ou até encerrar suas atividades
                                 por causa de irregularidades na prestação de contas ao Fisco.
                             </p>
