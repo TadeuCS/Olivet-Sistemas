@@ -279,9 +279,9 @@
                             </h2>
                             <img src="img/solucoes/web.png" class="img-responsive">
                             <p class="text-justify">
-                                O modulo ResulthERP é a solução mais completa para atender a sua empresa,
-                                visando agilizar cada etapa dos processos de gestão do seu negocio,
-                                integrando todas as funcionalidades do sistema com a rotina da sua organização.
+                                O módulo ResulthWeb é uma solução em nuvem, acessível através da internet, disponibilizando
+                                os mesmos recursos do seu módulo a qualquer momento que você precisar e onde você precisar,
+                                praticidade e agilidade resumidas em um acesso rápido e confiável.
                             </p>
                             <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/resulth-web/"
                                target="_blank">Saber Mais</a>
