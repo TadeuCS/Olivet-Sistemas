@@ -39,7 +39,6 @@
                     <li>
                         <a href="#solucoes">Soluções</a>
                     </li>
-
                     <!--                        <li class="dropdown">
                                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Soluções <span class="caret"></span></a>
                                                 <ul class="dropdown-menu" role="menu">
@@ -547,7 +546,6 @@
         <footer id="copyright">
             <hr>
             <label>Desenvolvido por VTR Soluções</label>
-            <label>|</label>
             <label>e-mail:
                 <a>vtrsolucoes@gmail.com</a>
             </label>
