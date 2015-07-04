@@ -92,7 +92,7 @@
                     </div>
                     <div class="col-sm-6">
                         <img src="img/icones/contato-comercial.png" alt="Contato Comercial">
-                        <em>Comercial</em>
+                        <em>Contato Comercial</em>
                         (34) 9941-4604
                     </div>
                 </div>
@@ -106,7 +106,7 @@
             <div class="col-md-12">
                 <hr>
                 <div class="parceiros">
-                    <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Parceiros</h1>
+                    <h1 class="text-center text-primary wow bounceInDown" data-wow-delay="0.2s">Distribuidor Autorizado</h1>
                     <div class="col-lg-4 text-center">
                         <a href="http://atsinformatica.com.br/" target="_blank" title="ATS Informática"><img src="img/parceiros/ats.png" alt="ATS"/></a>    
                     </div>
@@ -249,7 +249,7 @@
                     </h2>
                     <img src="img/solucoes/start.png" alt="ResulthStart" class="img-responsive">
                     <p class="text-justify">
-                        O módulo ResulthStart vem para atender de forma direta e 
+                        O módulo Resulth Start vem para atender de forma direta e 
                         simplificada as necessidades em geral da sua empresa, 
                         se adequando as necessidades e lhe disponibilizando 
                         plena administração das operações da sua empresa.
@@ -263,7 +263,7 @@
                     </h2>
                     <img src="img/solucoes/business.png" alt="Business" class="img-responsive">
                     <p class="text-justify">
-                        O módulo ResulthBusiness atende de forma agregada todas as necessidades do seu negocio,
+                        O módulo Resulth Business atende de forma agregada todas as necessidades do seu negocio,
                         abrangendo diversas etapas externar para facilitar ainda mais 
                         o gerenciamento de cada processo das atividades de sua empresa.
                     </p>
@@ -276,7 +276,7 @@
                     </h2>
                     <img src="img/solucoes/erp.png" alt="ERP" class="img-responsive">
                     <p class="text-justify">
-                        O módulo ResulthERP é a solução mais completa para atender a sua empresa,
+                        O módulo Resulth ERP é a solução mais completa para atender a sua empresa,
                         visando agilizar cada etapa dos processos de gestão do seu negocio, 
                         integrando todas as funcionalidades do sistema com a rotina da sua organização.
                     </p>
@@ -290,7 +290,7 @@
                     </h2>
                     <img src="img/solucoes/web.png" alt="Web" class="img-responsive">
                     <p class="text-justify">
-                        O módulo ResulthWeb é uma solução em nuvem, acessível através da internet, disponibilizando
+                        O módulo Resulth Web é uma solução em nuvem, acessível através da internet, disponibilizando
                         os mesmos recursos do seu módulo a qualquer momento que você precisar e onde você precisar,
                         praticidade e agilidade resumidas em um acesso rápido e confiável.
                     </p>
@@ -303,7 +303,7 @@
                     </h2>
                     <img src="img/solucoes/bi.png" alt="BI" class="img-responsive">
                     <p class="text-justify">
-                        O módulo ResulthBI é uma ferramenta de geração de relatórios 100% online,
+                        O módulo Resulth BI é uma ferramenta de geração de relatórios 100% online,
                         mesclando a gestão e o controle de cada etapa das atividades de sua empresa,
                         gerando relatórios íntegros e precisos para você adequar o seu negocio a sua maneira e a sua gestão.
                     </p>
@@ -343,7 +343,7 @@
                     <p class="text-justify">O TEF é uma máquina que traz as soluções nas suas vendas em cartão,
                         não é necessário ficar preso ao comprovante da venda em cartão,
                         as transações são feitas online e podem ser acessadas de qualquer lugar pelo seu gestor.</p>
-                    <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/Produto"
+                    <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/CapptaCartoes"
                        target="_blank">Saber Mais</a>
                 </div>
                 <div class="col-md-3">
@@ -356,7 +356,7 @@
                         Não deixe a sua empresa ser mais uma a perder dinheiro com multas e autuações, ou até encerrar suas atividades
                         por causa de irregularidades na prestação de contas ao Fisco.
                     </p>
-                    <a class="btn btn-block btn-lg btn-primary" href="http://www.cappta.com.br/Produto"
+                    <a class="btn btn-block btn-lg btn-primary" href="http://atsinformatica.com.br/solucoes-fiscais/"
                        target="_blank">Saber Mais</a>
                 </div>
             </div>
